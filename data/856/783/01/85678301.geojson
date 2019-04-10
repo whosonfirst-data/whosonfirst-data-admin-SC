@@ -1,0 +1,283 @@
+{
+  "id": 85678301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003345,
+    "geom:area_square_m":41241615.723227,
+    "geom:bbox":"55.2214461602,-4.59275514673,55.9501440262,-3.79111093492",
+    "geom:latitude":-4.406277,
+    "geom:longitude":55.516601,
+    "gp:id":0,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "La Digue and Inner Islands District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.475551,
+    "lbl:longitude":55.244252,
+    "mps:latitude":-4.475551,
+    "mps:longitude":55.244252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u062f\u064a\u063a \u0648\u0627\u0644\u062c\u0632\u0631 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09a1\u09bf\u0997 \u0993 \u0987\u09a8\u09be\u09b0 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u8482\u683c\u8207\u5167\u5cf6\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "La Digue and Inner Islands"
+    ],
+    "name:dut_x_preferred":[
+        "La Digue and Inner Islands"
+    ],
+    "name:eng_x_preferred":[
+        "La Digue and Inner Islands"
+    ],
+    "name:fin_x_preferred":[
+        "La Digue and Inner Islands"
+    ],
+    "name:fre_x_preferred":[
+        "district de La Digue"
+    ],
+    "name:ger_x_preferred":[
+        "La Digue und innere Inseln"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u039b\u03b1 \u039d\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b5 \u03ba\u03b1\u03b9 \u038a\u03bd\u03bd\u03b5\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0aa1\u0abf\u0a97 \u0a8f\u0aa8\u0acd\u0aa1 \u0a88\u0aa8\u0ab0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0921\u0940\u0917\u0941 \u0914\u0930 \u0907\u0928\u0930 \u0906\u0907\u0932\u0948\u0902\u0921\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "La Digue dan Inner Islands"
+    ],
+    "name:ita_x_preferred":[
+        "La Digue ed altre isole interne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30c7\u30a3\u30fc\u30b0\u5cf6\u304a\u3088\u3073\u30a4\u30f3\u30ca\u30fc\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0ca1\u0cbf\u0c97\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c87\u0ca8\u0ccd\u0ca8\u0cb0\u0ccd \u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub514\uadf8 \ubc0f \ub0b4\ubd80 \ub3c4\uc11c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ladiga un Iek\u0161\u0113j\u0101s salas"
+    ],
+    "name:lit_x_preferred":[
+        "La Dig\u0117 ir vidin\u0117s salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u0921\u093f\u090f\u0917 \u0905\u0901\u0921 \u0906\u0907\u0932\u0930 \u0906\u0908\u0938\u0932\u0901\u0921\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Kepulauan La Digue dan Inner"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan La Digue dan Inner"
+    ],
+    "name:nob_x_preferred":[
+        "La Dique og indre \u00f8yer"
+    ],
+    "name:pol_x_preferred":[
+        "La Digue i Wyspy Wewn\u0119trzne"
+    ],
+    "name:por_x_preferred":[
+        "Islas La Digue e Inner"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0414\u0438\u0433 \u0438 \u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0da9\u0dd2\u0d9c\u0dd4 \u0dc3\u0dc4 \u0d87\u0dad\u0dd4\u0dbd\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Islas La Digue e Inner"
+    ],
+    "name:swe_x_preferred":[
+        "La Digue and Inner Islands"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe  \u0b9f\u0bbf\u0b95\u0bc1\u0b87 \u0b85\u0ba3\u0bcd\u0b9f\u0bcd  \u0b87\u0ba8\u0bcd\u0ba8\u0bc7\u0bb0\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e \u0c21\u0c3f\u0c17\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c07\u0c28\u0c4d\u0c28\u0c30\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32 \u0e14\u0e34\u0e01 \u0e41\u0e2d\u0e19 \u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e44\u0e2d\u0e2a\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "La Digue dan Inner Islands"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0414\u0456\u0433 \u0442\u0430 \u0412\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "La Digue"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u062f\u06cc\u062c\u0648\u06cc \u0627\u06cc\u0646\u0688 \u0627\u0646\u0631 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o La Digue v\u00e0 Inner"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8482\u683c\u8207\u5167\u5cf6\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5212",
+    "ne:adm1_code":"SYC-5212",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5212",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.",
+    "ne:gn_id":"241311",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Inner Islands",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE25",
+    "ne:gns_id":"-1322538",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Inner Islands",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.35949000000",
+    "ne:longitude":"55.83930000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"La Digue and Inner Islands",
+    "ne:name_alt":"",
+    "ne:name_len":26,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":-99,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"La Digue and Inner Islands",
+    "qs:a1_lc":"SYC-5212",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"36",
+    "statoids:area_mi":"14",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE25",
+    "statoids:hasc":"SC.DI",
+    "statoids:iso":"15",
+    "statoids:name":"La Digue and Inner Islands",
+    "statoids:population":"3045",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-15",
+    "wd:wordcount":190,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE25",
+        "gn:id":241311,
+        "gp:id":-99,
+        "hasc:id":"SC.DI",
+        "iso:id":"SC-15",
+        "unlc:id":"SC-15",
+        "wd:id":"Q1094917"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"fdf666321cbbfb9a6bb442bc4f571b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678301
+        }
+    ],
+    "wof:id":85678301,
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550502,
+    "wof:name":"La Digue and Inner Islands",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":3045,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"DI",
+    "wof:subdivision":"SC-15",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.22144616021217,
+    -4.5927551467326,
+    55.95014402622587,
+    -3.79111093492168
+],
+  "geometry": {"coordinates":[[[[55.95014402622587,-4.59099288021719],[55.94485722578042,-4.5927551467326],[55.93906692010233,-4.59225164239933],[55.93302486180801,-4.58620958410495],[55.93252135747474,-4.58243329755857],[55.93579413878854,-4.57991577319433],[55.94007392966819,-4.5786570119115],[55.94435372054784,-4.57991577319433],[55.94938876927631,-4.58646133672124],[55.95014402622587,-4.59099288021719]]],[[[55.26026451949201,-4.50009531005048],[55.24195397189834,-4.50400155942435],[55.22803795698616,-4.48748137766341],[55.22144616021217,-4.46347421666172],[55.22543379013734,-4.4449195283135],[55.24203535244959,-4.45037200276567],[55.25993899818627,-4.46298593515274],[55.26921634236038,-4.4801571586259],[55.26026451949201,-4.50009531005048]]],[[[55.84409442911465,-4.37426601036805],[55.84149148264584,-4.38281854773771],[55.8344263439007,-4.38095930013156],[55.82550195754936,-4.37203491378023],[55.82327086096154,-4.35976388299673],[55.82847675299979,-4.34749285221329],[55.83182339743189,-4.33745291711836],[55.84409442911465,-4.34265880915666],[55.85078771887817,-4.35530168982109],[55.85710915876075,-4.36496977503504],[55.85041586899723,-4.36831642036645],[55.84409442911465,-4.37426601036805]]],[[[55.92367020651488,-4.34303065903765],[55.92255465777129,-4.34972394880117],[55.91883616345825,-4.34786470119496],[55.91772061561397,-4.34042771256884],[55.91995171220179,-4.33410627268631],[55.92478575435911,-4.33708106813674],[55.92367020651488,-4.34303065903765]]],[[[55.88462601667737,-4.33670921825575],[55.87867642577646,-4.33819661598102],[55.87347053373821,-4.33261887496104],[55.8667772439747,-4.32332263962809],[55.86863649068158,-4.31737304872718],[55.87347053373821,-4.31848859657146],[55.88313861895216,-4.32890038064801],[55.88462601667737,-4.33670921825575]]],[[[55.87384238271983,-4.29617763069308],[55.87012388840679,-4.29654948057401],[55.8664053940937,-4.28874064296627],[55.8664053940937,-4.28316290104698],[55.86975203942512,-4.28353475092797],[55.8708675872694,-4.2898561908105],[55.87384238271983,-4.29617763069308]]],[[[55.65967858250065,-3.79111093492168],[55.66586347741759,-3.81178150771035],[55.65853925927945,-3.81170012805842],[55.65186608195415,-3.80120208101118],[55.65967858250065,-3.79111093492168]]]],"type":"MultiPolygon"}
+}

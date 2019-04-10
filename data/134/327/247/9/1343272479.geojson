@@ -1,0 +1,64 @@
+{
+  "id": 1343272479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52108,-4.6808,55.52108,-4.6808",
+    "geom:latitude":-4.6808,
+    "geom:longitude":55.52108,
+    "gn:asciiname":"Pointe La Rue",
+    "gn:country_code":"SC",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257135,
+    "gn:latitude":-4.6808,
+    "gn:longitude":55.52108,
+    "gn:modification_date":"2016-09-16",
+    "gn:name":"Pointe La Rue",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257135
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"959546ec1664a51f01f938c8c8a3d095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":1343272479,
+            "region_id":85678237
+        }
+    ],
+    "wof:id":1343272479,
+    "wof:lastmodified":1537016753,
+    "wof:name":"Pointe La Rue",
+    "wof:parent_id":85678237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52108000000001,
+    -4.6808,
+    55.52108000000001,
+    -4.6808
+],
+  "geometry": {"coordinates":[55.52108000000001,-4.6808],"type":"Point"}
+}

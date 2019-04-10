@@ -1,0 +1,305 @@
+{
+  "id": 85678273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000634,
+    "geom:area_square_m":7810309.473102,
+    "geom:bbox":"55.435036193,-4.65764048862,55.4644509675,-4.61811533056",
+    "geom:latitude":-4.637107,
+    "geom:longitude":55.451383,
+    "gn:population":2878,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Bel Air District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.638595,
+    "lbl:longitude":55.449934,
+    "mps:latitude":-4.638595,
+    "mps:longitude":55.449934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644 \u0627\u064a\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2 \u098f\u09af\u09bc\u09be\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Bel Air"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u723e\u827e\u723e\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Bel Air"
+    ],
+    "name:deu_x_preferred":[
+        "Bel Air"
+    ],
+    "name:dut_x_preferred":[
+        "Bel Air"
+    ],
+    "name:eng_x_preferred":[
+        "Bel Air"
+    ],
+    "name:fin_x_preferred":[
+        "Bel Air"
+    ],
+    "name:fra_x_preferred":[
+        "Bel Air"
+    ],
+    "name:fre_x_preferred":[
+        "Bel Air"
+    ],
+    "name:ger_x_preferred":[
+        "Bel Air"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb \u0395\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0ab2 \u0a8f\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932 \u090f\u092f\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Bel Air"
+    ],
+    "name:ita_x_preferred":[
+        "Bel Air"
+    ],
+    "name:jav_x_preferred":[
+        "Bel Air"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30fb\u30a8\u30a2\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0cb2\u0ccd \u0c8f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\uc5d0\ub974 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Belaira"
+    ],
+    "name:lit_x_preferred":[
+        "Bel Eiras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0932 \u090f\u092f\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Bel Air"
+    ],
+    "name:msa_x_preferred":[
+        "Bel Air"
+    ],
+    "name:nld_x_preferred":[
+        "Bel Air"
+    ],
+    "name:nob_x_preferred":[
+        "Bel Air"
+    ],
+    "name:pol_x_preferred":[
+        "Bel Air"
+    ],
+    "name:por_x_preferred":[
+        "Bel Air"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Bel Air"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Bel Air"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c-\u042d\u0439\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0dbd\u0dca \u0d91\u0dba\u0dcf\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Bel Air"
+    ],
+    "name:swe_x_preferred":[
+        "Bel Air"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb2\u0bcd  \u0b8f\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c32\u0c4d \u0c0e\u0c2f\u0c3f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e25 \u0e41\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Bel Air"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644 \u0627\u06cc\u0626\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Bel Air"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u827e\u723e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5206",
+    "ne:adm1_code":"SYC-5206",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5206",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.09",
+    "ne:gn_id":"241426",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Bel Air",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE09",
+    "ne:gns_id":"-1322418",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Bel Air",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.63198000000",
+    "ne:longitude":"55.44830000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Bel Air",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549883,
+    "ne:woe_label":"",
+    "ne:woe_name":"Bel Air",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Bel Air",
+    "qs:a1_lc":"SYC-5206",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"5",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE09",
+    "statoids:hasc":"SC.BA",
+    "statoids:iso":"09",
+    "statoids:name":"Bel Air",
+    "statoids:population":"2857",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-09",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE09",
+        "gn:id":241426,
+        "gp:id":24549883,
+        "hasc:id":"SC.BA",
+        "iso:id":"SC-09",
+        "qs:id":507466,
+        "unlc:id":"SC-09",
+        "wd:id":"Q815077",
+        "wk:page":"Bel Air, Seychelles"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"4bf5a56fc3f7ce35d00fe136601448f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678273
+        }
+    ],
+    "wof:id":85678273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550552,
+    "wof:name":"Bel Air",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":2857,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"BA",
+    "wof:subdivision":"SC-09",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43503619296598,
+    -4.65764048861763,
+    55.4644509675382,
+    -4.618115330558
+],
+  "geometry": {"coordinates":[[[55.46050023050128,-4.62560107952618],[55.46049972957888,-4.62998182020482],[55.45523141110078,-4.63217695200467],[55.4644509675382,-4.64710385256069],[55.45918264995936,-4.65764048861763],[55.44513380248304,-4.65061606487944],[55.44118256362447,-4.63612819086325],[55.43503619296598,-4.63042084584532],[55.44732893518227,-4.6207622637674],[55.45884595367789,-4.618115330558],[55.46176742112965,-4.6225476185777],[55.45718971183578,-4.62399970172481],[55.45668242405469,-4.62580201684955],[55.46050023050128,-4.62560107952618]]],"type":"Polygon"}
+}

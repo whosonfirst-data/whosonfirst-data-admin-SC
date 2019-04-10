@@ -1,0 +1,224 @@
+{
+  "id": 85678295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001872,
+    "geom:area_square_m":23085375.77644,
+    "geom:bbox":"55.6436675879,-4.35842450199,55.7679950953,-4.20990856443",
+    "geom:latitude":-4.325962,
+    "geom:longitude":55.717047,
+    "gn:population":3609,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Grand'Anse Praslin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.334844,
+    "lbl:longitude":55.731148,
+    "mps:latitude":-4.334844,
+    "mps:longitude":55.731148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Grand' Anse"
+    ],
+    "name:deu_x_preferred":[
+        "Grand Anse"
+    ],
+    "name:eng_x_preferred":[
+        "Grand Anse Praslin"
+    ],
+    "name:fra_x_preferred":[
+        "Grand'Anse"
+    ],
+    "name:ind_x_preferred":[
+        "Grand'Anse Praslin"
+    ],
+    "name:ita_x_preferred":[
+        "Grand'Anse Praslin"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub791\ub2f9\uc2a4\ud504\ub77c\uc2ac\ub7ad \uad6c"
+    ],
+    "name:msa_x_preferred":[
+        "Grand'Anse Praslin"
+    ],
+    "name:nld_x_preferred":[
+        "Grand' Anse"
+    ],
+    "name:nno_x_preferred":[
+        "Grand\u2019 Anse"
+    ],
+    "name:nob_x_preferred":[
+        "Grand\u2019 Anse"
+    ],
+    "name:pol_x_preferred":[
+        "Grand' Anse"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Grand'Anse Praslin"
+    ],
+    "name:spa_x_preferred":[
+        "Grand' Anse"
+    ],
+    "name:swe_x_preferred":[
+        "Grand'Anse Praslin"
+    ],
+    "name:unk_x_variant":[
+        "Grand\u2019 Anse"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u862d\u5927\u5b89\u585e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5211",
+    "ne:adm1_code":"SYC-5211",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5211",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.14",
+    "ne:gn_id":"241331",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Grand Anse Praslin",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE14",
+    "ne:gns_id":"-1322518",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Grand Anse Praslin",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.34469000000",
+    "ne:longitude":"55.74350000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Grand'Anse Praslin",
+    "ne:name_alt":"",
+    "ne:name_len":18,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549889,
+    "ne:woe_label":"",
+    "ne:woe_name":"Grand Anse Praslin",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Grand'Anse Praslin",
+    "qs:a1_lc":"SYC-5211",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"22",
+    "statoids:area_mi":"9",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE14",
+    "statoids:hasc":"SC.GP",
+    "statoids:iso":"14",
+    "statoids:name":"Grand' Anse (Praslin)",
+    "statoids:population":"3727",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-14",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE14",
+        "gn:id":241331,
+        "gp:id":24549889,
+        "hasc:id":"SC.GP",
+        "iso:id":"SC-14",
+        "qs:id":896542,
+        "unlc:id":"SC-14",
+        "wd:id":"Q1231388",
+        "wk:page":"Grand'Anse Praslin"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"ad500a6924270976dfb5acbe5f03aad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678295
+        }
+    ],
+    "wof:id":85678295,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550499,
+    "wof:name":"Grand'Anse Praslin",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":3727,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"GP",
+    "wof:subdivision":"SC-14",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6436675878889,
+    -4.35842450198913,
+    55.76799509529747,
+    -4.20990856442864
+],
+  "geometry": {"coordinates":[[[[55.65110457651502,-4.3534424431142],[55.6481297810646,-4.3534424431142],[55.6436675878889,-4.34935209892018],[55.647014232321,-4.34674915335069],[55.6488734799272,-4.34860840005757],[55.65110457651502,-4.3534424431142]]],[[[55.66560670388634,-4.33410627268631],[55.66040081184804,-4.33484997154892],[55.6600289619671,-4.33038777837322],[55.66300375741753,-4.3281566817854],[55.66635040274895,-4.32927223052894],[55.66560670388634,-4.33410627268631]]],[[[55.76799509529747,-4.35028648103622],[55.7591246529804,-4.35842450198913],[55.7467548604485,-4.35809898158271],[55.73275746498507,-4.35223960617282],[55.72331736060778,-4.34255536104104],[55.71763486385794,-4.3301164637038],[55.70410178117231,-4.32785960513661],[55.69200801305942,-4.32629743507852],[55.6845710244333,-4.31886044645239],[55.68376657996373,-4.31154950230763],[55.67717478229042,-4.296412783623],[55.6828195929499,-4.29438917232238],[55.74104565653187,-4.32913278704842],[55.74755302135492,-4.338893834283],[55.76799509529747,-4.35028648103622]]],[[[55.67527478910029,-4.21213966101652],[55.67192814376887,-4.21474260658596],[55.66449115514274,-4.21399890772335],[55.65928526310444,-4.21288335987913],[55.66040081184804,-4.21028041341032],[55.66672225173056,-4.20990856442864],[55.67044074604365,-4.21065226329125],[55.67527478910029,-4.21213966101652]]]],"type":"MultiPolygon"}
+}

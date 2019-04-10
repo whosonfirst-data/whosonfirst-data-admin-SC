@@ -1,0 +1,305 @@
+{
+  "id": 85678265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001912,
+    "geom:area_square_m":23571209.379238,
+    "geom:bbox":"55.6828195929,-4.35028648104,55.7870380634,-4.27684146116",
+    "geom:latitude":-4.313793,
+    "geom:longitude":55.738045,
+    "gn:id":"",
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Baie Sainte Anne District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.332123,
+    "lbl:longitude":55.758034,
+    "mps:latitude":-4.332123,
+    "mps:longitude":55.758034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a \u0633\u064a\u0646\u062a \u0622\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0987\u09af\u09bc\u09c7 \u09b8\u09c7\u09a8\u09cd\u099f\u09c7 \u0986\u09a8\u09cd\u09af\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u8056\u5b89\u90a3\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:deu_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:dut_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:eng_x_preferred":[
+        "Baie Ste. Anne"
+    ],
+    "name:eng_x_variant":[
+        "Baie Sainte Anne",
+        "Baie Ste Anne"
+    ],
+    "name:fin_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:fra_x_preferred":[
+        "Baie Sainte-Anne"
+    ],
+    "name:fre_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ger_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ac\u03b5 \u03a3\u03ac\u03b9\u03bd\u03c4\u03b5 \u0386\u03bd\u03bd\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0a88 \u0ab8\u0ac7\u0a87\u0aa8\u0acd\u0a9f \u0a8f\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0908 \u0938\u0948\u0928\u094d\u0924\u0947 \u0910\u0928\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ita_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30a8\u30fb\u30bb\u30f3\u30c8\u30fb\u30a2\u30f3\u30bb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc8\u0caf\u0cbf \u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c85\u0ca8\u0ccd\u0ca8\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc0dd\ud2b8\uc548 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Besentanne"
+    ],
+    "name:lit_x_preferred":[
+        "Baje Saint Ana"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0908 \u0938\u0947\u0902\u091f \u090d\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:msa_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:nld_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:nob_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:pol_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:por_x_preferred":[
+        "Baie Ste. Anne"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Baie Sainte Anne"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Baie Sainte Anne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435-\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dba\u0dda \u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d86\u0db1\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:swe_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc8\u0b88  \u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b85\u0ba9\u0bcd\u0ba9\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c2f\u0c4d \u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c06\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e41\u0e2d\u0e19\u0e19\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435-\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u06cc\u06cc \u0633\u0627\u06cc\u0646\u062a\u06cc \u0622\u0646\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u8056\u5b89\u90a3\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5204",
+    "ne:adm1_code":"SYC-5204",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5204",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.07",
+    "ne:gn_id":"241438",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Baie Sainte Anne",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE07",
+    "ne:gns_id":"-1322406",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Baie Sainte Anne",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.32918000000",
+    "ne:longitude":"55.76000000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Baie Sainte Anne",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549888,
+    "ne:woe_label":"",
+    "ne:woe_name":"Baie Ste. Anne",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Baie Sainte Anne",
+    "qs:a1_lc":"SYC-5204",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"29",
+    "statoids:area_mi":"11",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE07",
+    "statoids:hasc":"SC.BS",
+    "statoids:iso":"07",
+    "statoids:name":"Baie Sainte Anne",
+    "statoids:population":"4876",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-07",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE07",
+        "gn:id":241438,
+        "gp:id":24549888,
+        "hasc:id":"SC.BS",
+        "iso:id":"SC-07",
+        "qs:id":1085975,
+        "unlc:id":"SC-07",
+        "wd:id":"Q803716"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"e76891a980b6ddb5bd5bf3739663d4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678265
+        }
+    ],
+    "wof:id":85678265,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550499,
+    "wof:name":"Baie Sainte Anne",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":4876,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"BS",
+    "wof:subdivision":"SC-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6828195929499,
+    -4.35028648103622,
+    55.78703806335602,
+    -4.27684146116445
+],
+  "geometry": {"coordinates":[[[[55.74666987901173,-4.31142345782627],[55.75447871661953,-4.32109154304021],[55.76451865171447,-4.31662934986457],[55.77716153147952,-4.31848859657146],[55.78703806335602,-4.33059247036618],[55.77092478255275,-4.33132489262965],[55.76823923605195,-4.33962567288643],[55.76799509529747,-4.35028648103622],[55.74755302135492,-4.338893834283],[55.74104565653187,-4.32913278704842],[55.6828195929499,-4.29438917232238],[55.69011423598323,-4.29177411108628],[55.69695017351177,-4.29055340821316],[55.70443715275246,-4.29022788690742],[55.71867868897039,-4.30324872025221],[55.73215057189145,-4.30881760384926],[55.74666987901173,-4.31142345782627]]],[[[55.73328329948475,-4.28911249194789],[55.73291145050308,-4.29245913637999],[55.72073014597953,-4.28827065366767],[55.7120874362862,-4.28036874791934],[55.7150626778004,-4.27684146116445],[55.72212781654554,-4.27684146116445],[55.738489191523,-4.27795700900873],[55.7429513846987,-4.27832885888967],[55.74146398697349,-4.28316290104698],[55.73216775164047,-4.28316290104698],[55.73328329948475,-4.28911249194789]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 421187775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"55.489711,-4.758723,55.489711,-4.758723",
+    "geom:latitude":-4.758723,
+    "geom:longitude":55.489711,
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Baie Lazare",
+    "qs:name_adm0":"Seychelles",
+    "qs:name_adm1":"Baie Lazare",
+    "qs:photos":1533,
+    "qs:photos_1k":311,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1533,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1086030,
+    "qs:woe_adm0":23424941,
+    "qs:woe_id":24602720,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24602720,
+        "qs:id":1086030
+    },
+    "wof:country":"SC",
+    "wof:created":1459009523,
+    "wof:geomhash":"d0881ba3f7e0a47c73bf5ad20fe82de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":421187775,
+            "region_id":85678259
+        }
+    ],
+    "wof:id":421187775,
+    "wof:lastmodified":1466635865,
+    "wof:name":"Baie Lazare",
+    "wof:parent_id":85678259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.489711,
+    -4.758723,
+    55.489711,
+    -4.758723
+],
+  "geometry": {"coordinates":[55.489711,-4.758723],"type":"Point"}
+}

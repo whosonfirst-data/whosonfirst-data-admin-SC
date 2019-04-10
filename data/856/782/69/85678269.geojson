@@ -1,0 +1,292 @@
+{
+  "id": 85678269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000475,
+    "geom:area_square_m":5855836.103951,
+    "geom:bbox":"55.4144217658,-4.62383544865,55.4407435371,-4.58692280494",
+    "geom:latitude":-4.604712,
+    "geom:longitude":55.43087,
+    "gn:population":3892,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Beau Vallon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.604409,
+    "lbl:longitude":55.429973,
+    "mps:latitude":-4.604409,
+    "mps:longitude":55.429973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648 \u0641\u0627\u0644\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0989 \u09ad\u09cd\u09af\u09be\u09b2\u09cb\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u74e6\u9686\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:dut_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:eng_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:eng_x_variant":[
+        "Beauvallon"
+    ],
+    "name:fin_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:fra_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:fre_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:ger_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf \u0392\u03b1\u03bb\u03cc\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0aaf\u0ac1 \u0ab5\u0ac7\u0ab2\u0acb\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u092f\u0942 \u0935\u0932\u094b\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:ita_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a6\u30fb\u30d0\u30ed\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0caf\u0cc2 \u0cb5\u0cbe\u0cb2\u0ccd\u0cb2\u0cca\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ubc1c\ub871 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Bevalonna"
+    ],
+    "name:lit_x_preferred":[
+        "Bo Valonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0905\u0909 \u0935\u0947\u0932\u094d\u0932\u094b\u0923"
+    ],
+    "name:may_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:nno_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:pol_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:por_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Beau Vallon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e-\u0412\u0430\u043b\u043b\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd2\u0dba\u0dd4 \u0dc0\u0dd0\u0dbd\u0ddd\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:swe_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0baf\u0bc2  \u0bb5\u0bb2\u0bcd\u0bb2\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c2f\u0c42 \u0c35\u0c3e\u0c32\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e34\u0e27\u0e27\u0e31\u0e25\u0e25\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Beau Vallon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e-\u0412\u0430\u043b\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648 \u0648\u0627\u0644\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Beau Vallon"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5205",
+    "ne:adm1_code":"SYC-5205",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5205",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.08",
+    "ne:gn_id":"241428",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Beau Vallon",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE08",
+    "ne:gns_id":"-1322416",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Beau Vallon",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.60295000000",
+    "ne:longitude":"55.43170000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Beau Vallon",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549877,
+    "ne:woe_label":"",
+    "ne:woe_name":"Beau Vallon",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Beau Vallon",
+    "qs:a1_lc":"SYC-5205",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"5",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE08",
+    "statoids:hasc":"SC.BV",
+    "statoids:iso":"08",
+    "statoids:name":"Beau Vallon",
+    "statoids:population":"4120",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-08",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE08",
+        "gn:id":241428,
+        "gp:id":24549877,
+        "hasc:id":"SC.BV",
+        "iso:id":"SC-08",
+        "qs:id":507460,
+        "unlc:id":"SC-08",
+        "wd:id":"Q7479348"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"641306bf9b10b0cf24131b4bb1f60971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678269
+        }
+    ],
+    "wof:id":85678269,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553814826,
+    "wof:name":"Beau Vallon",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":4120,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"BV",
+    "wof:subdivision":"SC-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.41442176575197,
+    -4.62383544864701,
+    55.44074353708464,
+    -4.58692280494347
+],
+  "geometry": {"coordinates":[[[55.44074353708464,-4.58695722469611],[55.43942645836444,-4.59573775369432],[55.44074353708464,-4.60451828359186],[55.43591424604568,-4.60846952245043],[55.43854840528473,-4.6150549196488],[55.43152398154655,-4.62383544864701],[55.42581663742794,-4.61285978694957],[55.41703610753041,-4.61593297272844],[55.41442176575197,-4.61277365797787],[55.4176175237298,-4.61138419822214],[55.42229841493997,-4.60342668289508],[55.42611738420999,-4.59547291504293],[55.43165123831403,-4.59156666476974],[55.43268669343621,-4.58692280494347],[55.44074353708464,-4.58695722469611]]],"type":"Polygon"}
+}

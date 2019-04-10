@@ -1,0 +1,303 @@
+{
+  "id": 85678331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1430091.600749,
+    "geom:bbox":"55.4315239815,-4.63042084585,55.4473289352,-4.61505491965",
+    "geom:latitude":-4.62242,
+    "geom:longitude":55.438554,
+    "gn:population":3224,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Saint Louis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.622192,
+    "lbl:longitude":55.438434,
+    "mps:latitude":-4.622192,
+    "mps:longitude":55.438434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09c1\u0987"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:eng_x_variant":[
+        "St Louis",
+        "St. Louis"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u039b\u03bf\u03cd\u03b9\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0ac2\u0a87\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u0941\u0907"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:jav_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30ed\u30fc\u30a4\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cb2\u0cc2\u0caf\u0cbf\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\ub8e8\uc774 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentluisa"
+    ],
+    "name:lit_x_preferred":[
+        "Saint Luisas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u0941\u0908\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:msa_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Lu\u00eds"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u0443\u0438\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dbd\u0dd4\u0dc0\u0dd2\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c2f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e25\u0e39\u0e2d\u0e34\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041b\u0443\u0457\u0441"
+    ],
+    "name:unk_x_variant":[
+        "St Louis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0648\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Louis"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5219",
+    "ne:adm1_code":"SYC-5219",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5219",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.22",
+    "ne:gn_id":"241181",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Louis",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE22",
+    "ne:gns_id":"-1322670",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Louis",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.62247000000",
+    "ne:longitude":"55.43880000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Saint Louis",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549886,
+    "ne:woe_label":"",
+    "ne:woe_name":"Saint Louis",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Saint Louis",
+    "qs:a1_lc":"SYC-5219",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"1",
+    "statoids:area_mi":"1",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE22",
+    "statoids:hasc":"SC.SL",
+    "statoids:iso":"22",
+    "statoids:name":"Saint Louis",
+    "statoids:population":"3209",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-22",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE22",
+        "gn:id":241181,
+        "gp:id":24549886,
+        "hasc:id":"SC.SL",
+        "iso:id":"SC-22",
+        "qs:id":59688,
+        "unlc:id":"SC-22",
+        "wd:id":"Q2278695",
+        "wk:page":"Saint Louis, Seychelles"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"eddb0f7dc3076382c8bc4861fe072749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678331
+        }
+    ],
+    "wof:id":85678331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550522,
+    "wof:name":"Saint Louis",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":3209,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"SL",
+    "wof:subdivision":"SC-22",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43152398154655,
+    -4.63042084584532,
+    55.44732893518227,
+    -4.6150549196488
+],
+  "geometry": {"coordinates":[[[55.44732893518227,-4.6207622637674],[55.43503619296598,-4.63042084584532],[55.43152398154655,-4.62383544864701],[55.43854840528473,-4.6150549196488],[55.44732893518227,-4.6207622637674]]],"type":"Polygon"}
+}

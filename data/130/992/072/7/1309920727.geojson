@@ -1,0 +1,61 @@
+{
+  "id": 1309920727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.47679,-4.63875,55.47679,-4.63875",
+    "geom:latitude":-4.63875,
+    "geom:longitude":55.47679,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Eden Island",
+    "gn:country_code":"SC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8693252,
+    "gn:latitude":-4.63875,
+    "gn:longitude":55.47679,
+    "gn:modification_date":"2017-09-14",
+    "gn:name":"Eden Island",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693252
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"29b45e8946e20506066610f0b2c3f1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309920727,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309920727,
+    "wof:lastmodified":1536765720,
+    "wof:name":"Eden Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.47679,
+    -4.63875,
+    55.47679,
+    -4.63875
+],
+  "geometry": {"coordinates":[55.47679,-4.63875],"type":"Point"}
+}

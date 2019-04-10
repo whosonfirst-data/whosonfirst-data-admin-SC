@@ -1,0 +1,73 @@
+{
+  "id": 1327251777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.41667,-4.61667,55.41667,-4.61667",
+    "geom:latitude":-4.61667,
+    "geom:longitude":55.41667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bel Ombre",
+    "gn:country_code":"SC",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":241423,
+    "gn:latitude":-4.61667,
+    "gn:longitude":55.41667,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Bel Ombre",
+    "gn:population":4163,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belle Ombre",
+        "Bel Ombre"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241423,
+        "wk:page":"Bel_Ombre,_Seychelles"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"aff7fcff087c7a56fd15aa80bb93c349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":1327251777,
+            "region_id":85678277
+        }
+    ],
+    "wof:id":1327251777,
+    "wof:lastmodified":1537699396,
+    "wof:name":"Bel Ombre",
+    "wof:parent_id":85678277,
+    "wof:placetype":"locality",
+    "wof:population":4163,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.41667,
+    -4.61667,
+    55.41667,
+    -4.61667
+],
+  "geometry": {"coordinates":[55.41667,-4.61667],"type":"Point"}
+}

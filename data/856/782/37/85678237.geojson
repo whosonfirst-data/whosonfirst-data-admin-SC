@@ -1,0 +1,311 @@
+{
+  "id": 85678237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1872558.286416,
+    "geom:bbox":"55.5039633507,-4.68912825626,55.5285546475,-4.67735210352",
+    "geom:latitude":-4.682302,
+    "geom:longitude":55.51772,
+    "gn:population":3638,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Anse aux Pins District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.682392,
+    "lbl:longitude":55.51772,
+    "mps:latitude":-4.682392,
+    "mps:longitude":55.51772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0622\u0646\u0633\u064a-\u0623\u0648\u0643\u0633-\u0628\u064a\u0646\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09b8- \u0986\u0989\u09b8 \u09aa\u09bf\u09a8\u09cd\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u585e\u5967\u6f58\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:deu_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:dut_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:eng_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:eng_x_variant":[
+        "Anse-aux-Pins"
+    ],
+    "name:fin_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:fra_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:fre_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:ger_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03c3\u03ad-\u03bf-\u03a0\u03b9\u03bd\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0ab8-\u0a91\u0a95\u0acd\u0ab8-\u0aaa\u0abf\u0aa8\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0938\u0947-\u0911\u0915\u094d\u0938-\u092a\u093f\u0928\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:ita_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:jav_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30bb=\u30a8\u30af\u30b9=\u30d7\u30ea\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0ca8\u0ccd\u0cb8\u0cc6-\u0c86\u0c95\u0ccd\u0cb8\u0ccd-\u0caa\u0cbf\u0ca8\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc559\uc2a4\uc624\ud33d \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ansopina"
+    ],
+    "name:lit_x_preferred":[
+        "Anse-o-pinsas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u0938-\u0911\u0915\u094d\u0938-\u092a\u093f\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:msa_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:nld_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:nno_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:nob_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:pol_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:por_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Anse aux Pins"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Anse aux Pins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u043e-\u041f\u0435\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dc3\u0dda-\u0d94\u0d9a\u0dca\u0dc3\u0dca-\u0db4\u0dd2\u0db1\u0dca\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:swe_x_preferred":[
+        "Anse aux Pins"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bcd\u0bb8\u0bc7-\u0b86\u0bb8\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c28\u0c4d\u0c38\u0c46\u0c4d\u0c38\u0c4d-\u0c06\u0c15\u0c4d\u0c38\u0c4d-\u0c2a\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e42\u0e15 \u0e42\u0e19\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u043e-\u041f\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0633\u06cc-\u0627\u0648\u0632-\u067e\u06cc\u0646\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Anse-aux-Pins"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u585e\u5967\u6f58\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5198",
+    "ne:adm1_code":"SYC-5198",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5198",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.01",
+    "ne:gn_id":"241450",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Anse aux Pins",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE01",
+    "ne:gns_id":"-1322393",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Anse aux Pins",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.68304000000",
+    "ne:longitude":"55.52080000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Anse aux Pins",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549874,
+    "ne:woe_label":"",
+    "ne:woe_name":"Anse aux Pins",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Anse aux Pins",
+    "qs:a1_lc":"SYC-5198",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"3",
+    "statoids:area_mi":"1",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE01",
+    "statoids:hasc":"SC.PI",
+    "statoids:iso":"01",
+    "statoids:name":"Anse aux Pins",
+    "statoids:population":"3850",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-01",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE01",
+        "gn:id":241450,
+        "gp:id":24549874,
+        "hasc:id":"SC.PI",
+        "iso:id":"SC-01",
+        "qs:id":507457,
+        "unlc:id":"SC-01",
+        "wd:id":"Q569458",
+        "wk:page":"Anse-aux-Pins"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"20eb2339d8c2cde27b5cde3487fad00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678237
+        }
+    ],
+    "wof:id":85678237,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550492,
+    "wof:name":"Anse aux Pins",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":3850,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"PI",
+    "wof:subdivision":"SC-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5039633507281,
+    -4.68912825626398,
+    55.52855464747904,
+    -4.67735210351674
+],
+  "geometry": {"coordinates":[[[55.52855464747904,-4.68019329928131],[55.52628304812424,-4.68912825626398],[55.5039633507281,-4.68090889163199],[55.50630059609568,-4.67735210351674],[55.52855464747904,-4.68019329928131]]],"type":"Polygon"}
+}

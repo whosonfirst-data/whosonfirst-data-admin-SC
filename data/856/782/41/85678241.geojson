@@ -1,0 +1,307 @@
+{
+  "id": 85678241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001137,
+    "geom:area_square_m":14010624.720946,
+    "geom:bbox":"55.4780010213,-4.73908861765,55.5079467134,-4.67783570675",
+    "geom:latitude":-4.711478,
+    "geom:longitude":55.494029,
+    "gn:population":4027,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Anse Boileau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.715467,
+    "lbl:longitude":55.493744,
+    "mps:latitude":-4.715467,
+    "mps:longitude":55.493744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0633 \u0628\u0648\u064a\u0644\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09b8 \u09ac\u09c1\u0987\u09b2\u09c1"
+    ],
+    "name:cat_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u585e\u5e03\u74e6\u6d1b\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:deu_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:dut_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:eng_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:fin_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:fra_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:fre_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:ger_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bd\u03c3\u03b5 \u039c\u03c0\u03bf\u03ca\u03bb\u03cc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0acd\u0ab8\u0ac7 \u0aac\u0acb\u0a87\u0ab2\u0ac7\u0a89"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0938 \u092c\u0949\u0907\u0932\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:ita_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:jav_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30bb\u30fb\u30dc\u30a4\u30ec\u30e4\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0ca8\u0ccd\u0cb8\u0ccd \u0cac\u0ccb\u0cb2\u0cbf\u0caf\u0ccc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc559\uc2a4\ubd80\uc54c\ub85c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ansebualo"
+    ],
+    "name:lit_x_preferred":[
+        "Anse Bualo"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0928\u0938\u0947 \u092c\u094b\u0907\u0932\u094d\u092f\u0942"
+    ],
+    "name:may_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:msa_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:nld_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:nno_x_preferred":[
+        "Saint Anne Sandy Point"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Anne Sandy Point"
+    ],
+    "name:pol_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:por_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Anse Boileau"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Anse Boileau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u0411\u0443\u0430\u043b\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dc3\u0dda \u0db6\u0ddd\u0dba\u0dd2\u0dbd\u0dd2\u0dba\u0dc0\u0dd6"
+    ],
+    "name:spa_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:swe_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bcd\u0bb8\u0bc7 \u0baa\u0bcb\u0baf\u0bbf\u0bb2\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c28\u0c4d\u0c38\u0c4d \u0c2c\u0c3e\u0c2f\u0c3f\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e19\u0e0b\u0e35\u0e48 \u0e1a\u0e2d\u0e22\u0e40\u0e25\u0e35\u0e22\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u0411\u0443\u0430\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0633\u06d2 \u0628\u0648\u06cc\u0644\u06cc\u0627\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Anse Boileau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u585e\u5e03\u74e6\u6d1b\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5199",
+    "ne:adm1_code":"SYC-5199",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5199",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.02",
+    "ne:gn_id":"241449",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Anse Boileau",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE02",
+    "ne:gns_id":"-1322394",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Anse Boileau",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.71357000000",
+    "ne:longitude":"55.49230000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Anse Boileau",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549869,
+    "ne:woe_label":"",
+    "ne:woe_name":"Anse Boileau",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Anse Boileau",
+    "qs:a1_lc":"SYC-5199",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"12",
+    "statoids:area_mi":"5",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE02",
+    "statoids:hasc":"SC.AB",
+    "statoids:iso":"02",
+    "statoids:name":"Anse Boileau",
+    "statoids:population":"4011",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-02",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE02",
+        "gn:id":241449,
+        "gp:id":24549869,
+        "hasc:id":"SC.AB",
+        "iso:id":"SC-02",
+        "qs:id":507453,
+        "unlc:id":"SC-02",
+        "wd:id":"Q569453"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"87bdf58335be9f762312fce0f394910a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678241
+        }
+    ],
+    "wof:id":85678241,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550492,
+    "wof:name":"Anse Boileau",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":4011,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"AB",
+    "wof:subdivision":"SC-02",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4780010213301,
+    -4.73908861764556,
+    55.50794671337019,
+    -4.67783570675243
+],
+  "geometry": {"coordinates":[[[55.50018909215294,-4.67958790086089],[55.50352432418828,-4.70593340170507],[55.50794671337019,-4.71983233759227],[55.50503229660325,-4.73908861764556],[55.49157560592954,-4.73636399470257],[55.48502235859502,-4.7274703013133],[55.48034146738485,-4.72138514300991],[55.48174573447812,-4.71295953865172],[55.4780010213301,-4.70640629041793],[55.48069494771374,-4.69715287180753],[55.49167060941113,-4.68837234191],[55.49518282172988,-4.67783570675243],[55.50018909215294,-4.67958790086089]]],"type":"Polygon"}
+}

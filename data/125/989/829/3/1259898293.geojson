@@ -1,0 +1,65 @@
+{
+  "id": 1259898293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.48333,-4.71667,55.48333,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":55.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"L'Esperance",
+    "gn:country_code":"SC",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":241287,
+    "gn:latitude":-4.71667,
+    "gn:longitude":55.48333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"L\u2019Esp\u00e9rance",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":241287
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"af28e60344160bff8412cdb6311f086c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":1259898293,
+            "region_id":85678241
+        }
+    ],
+    "wof:id":1259898293,
+    "wof:lastmodified":1536757918,
+    "wof:name":"L'Esperance",
+    "wof:parent_id":85678241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.48333,
+    -4.71667,
+    55.48333,
+    -4.71667
+],
+  "geometry": {"coordinates":[55.48333,-4.71667],"type":"Point"}
+}

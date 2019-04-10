@@ -1,0 +1,302 @@
+{
+  "id": 85678247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000554,
+    "geom:area_square_m":6834016.817755,
+    "geom:bbox":"55.4394264584,-4.60451828359,55.4672205863,-4.57138362256",
+    "geom:latitude":-4.587537,
+    "geom:longitude":55.452333,
+    "gn:population":4633,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Anse Etoile District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.586867,
+    "lbl:longitude":55.452333,
+    "mps:latitude":-4.586867,
+    "mps:longitude":55.452333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0622\u0646\u0633\u064a \u0625\u064a\u062a\u0648\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09b8\u09c7 \u0987\u09a4\u09c1\u09af\u09bc\u09be\u0987\u09b2\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u585e\u827e\u6258\u74e6\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:dut_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:eng_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:fin_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:fra_x_preferred":[
+        "Anse \u00c9toile"
+    ],
+    "name:fre_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:ger_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bd\u03c3\u03b5 \u0395\u03c4\u03cc\u03b9\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa8\u0ab8\u0ac7 \u0a87\u0a9f\u0acb\u0a87\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0928\u094d\u0938\u0947 \u0907\u0924\u094b\u0907\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:ita_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:jav_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30bb\u30fb\u30a8\u30c1\u30aa\u30a8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0ca8\u0ccd\u0cb8\u0ccd \u0c8e\u0c9f\u0cc8\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc559\uc2a4\uc5d0\ud22c\uc54c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ansetol\u0113"
+    ],
+    "name:lit_x_preferred":[
+        "Anse Etol\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0928\u0938\u0947 \u0907\u0924\u094b\u0907\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:msa_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:nld_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:nno_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:nob_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:pol_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:por_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Anse Etoile"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Anse Etoile"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u042d\u0442\u0443\u0430\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dc3\u0dda \u0d91\u0da7\u0ddd\u0dba\u0dd2\u0dbd\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:swe_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bb8\u0bcd \u0b8f\u0b9f\u0bca\u0baf\u0bcd\u0bb2\u0bc6"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c28\u0c4d\u0c38\u0c46 \u0c07\u0c1f\u0c4b\u0c2f\u0c3f\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e19\u0e22\u0e32\u0e19\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u0415\u0442\u0443\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0633\u06d2 \u06cc\u062a\u0648\u06cc\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Anse Etoile"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u585e\u827e\u6258\u74e6\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5200",
+    "ne:adm1_code":"SYC-5200",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5200",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.03",
+    "ne:gn_id":"241447",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Anse Etoile",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE03",
+    "ne:gns_id":"-1322396",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Anse Etoile",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.58794000000",
+    "ne:longitude":"55.45430000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Anse Etoile",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549884,
+    "ne:woe_label":"",
+    "ne:woe_name":"Anse Etoile",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Anse Etoile",
+    "qs:a1_lc":"SYC-5200",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"6",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE03",
+    "statoids:hasc":"SC.ET",
+    "statoids:iso":"03",
+    "statoids:name":"Anse \u00c9toile",
+    "statoids:population":"4717",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE03",
+        "gn:id":241447,
+        "gp:id":24549884,
+        "hasc:id":"SC.ET",
+        "iso:id":"SC-03",
+        "qs:id":59513,
+        "wd:id":"Q387293",
+        "wk:page":"Anse Etoile"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"46308cca66bed641fb5d4ed04acfe9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678247
+        }
+    ],
+    "wof:id":85678247,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550492,
+    "wof:name":"Anse Etoile",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":4717,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"ET",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43942645836444,
+    -4.60451828359186,
+    55.46722058626108,
+    -4.57138362255608
+],
+  "geometry": {"coordinates":[[[55.45993682232654,-4.5985464326717],[55.45435335892046,-4.59749385985373],[55.44074353708464,-4.60451828359186],[55.43942645836444,-4.59573775369432],[55.44074353708464,-4.58695722469611],[55.44688990864245,-4.57422545683932],[55.45918264995936,-4.57642058863922],[55.46385965969557,-4.57138362255608],[55.46722058626108,-4.58342694409816],[55.46311278712545,-4.58790817951882],[55.45993682232654,-4.5985464326717]]],"type":"Polygon"}
+}

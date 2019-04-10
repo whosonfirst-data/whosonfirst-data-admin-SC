@@ -1,0 +1,65 @@
+{
+  "id": 1209726071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.75338,-4.31997,55.75338,-4.31997",
+    "geom:latitude":-4.31997,
+    "geom:longitude":55.75338,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cote d'Or",
+    "gn:country_code":"SC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6691843,
+    "gn:latitude":-4.31997,
+    "gn:longitude":55.75338,
+    "gn:modification_date":"2017-09-14",
+    "gn:name":"Cote d'Or",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691843
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"3db74a39238dd68a8cae47d8b689a4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":1209726071,
+            "region_id":85678265
+        }
+    ],
+    "wof:id":1209726071,
+    "wof:lastmodified":1536383638,
+    "wof:name":"Cote d'Or",
+    "wof:parent_id":85678265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.75338000000001,
+    -4.31997,
+    55.75338000000001,
+    -4.31997
+],
+  "geometry": {"coordinates":[55.75338000000001,-4.31997],"type":"Point"}
+}

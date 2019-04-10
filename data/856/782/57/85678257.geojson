@@ -1,0 +1,301 @@
+{
+  "id": 85678257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000655,
+    "geom:area_square_m":8076176.432994,
+    "geom:bbox":"55.5044023773,-4.77134834715,55.5280865584,-4.71983233759",
+    "geom:latitude":-4.748952,
+    "geom:longitude":55.513322,
+    "gn:population":3773,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Anse Royale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.744454,
+    "lbl:longitude":55.511348,
+    "mps:latitude":-4.744454,
+    "mps:longitude":55.511348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0633 \u0631\u0648\u064a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09b8 \u09b0\u09af\u09bc\u09c7\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:chi_x_preferred":[
+        "\u5b89\u585e\u7f85\u4e9e\u840a\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:dut_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:eng_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:fin_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:fra_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:fre_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:ger_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bd\u03c3\u03b5 \u03a1\u03bf\u03b1\u03b3\u03b9\u03ac\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0a82\u0ab8\u0ac7 \u0ab0\u0acb\u0aaf\u0abe\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0938 \u0930\u094b\u092f\u093e\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:ita_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30bb\u30fb\u30ed\u30a4\u30e4\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0ca8\u0ccd\u0cb8\u0cc6 \u0cb0\u0cbe\u0caf\u0cc7\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc559\uc2a4\ub8e8\uc544\uc584 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Ansurual\u0113"
+    ],
+    "name:lit_x_preferred":[
+        "Anse Rojal"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u0938 \u0930\u094b\u092f\u093e\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:msa_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:nld_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:nno_x_preferred":[
+        "Saint James Windward"
+    ],
+    "name:nob_x_preferred":[
+        "Saint James Windward"
+    ],
+    "name:pol_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:por_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Anse Royale"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Anse Royale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u0420\u043e\u044f\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dc3\u0dda \u0dbb\u0ddd\u0dba\u0dbd\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:swe_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba9\u0bcd\u0bb8\u0bc7  \u0bb1\u0bcb\u0baf\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c28\u0c4d\u0c38\u0c4d \u0c30\u0c3e\u0c2f\u0c47\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e19\u0e0b\u0e35\u0e48 \u0e23\u0e2d\u0e22\u0e31\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u0420\u043e\u044f\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0633\u06d2 \u0631\u0648\u06cc\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Anse Royale"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u585e\u7f85\u4e9e\u840a\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5202",
+    "ne:adm1_code":"SYC-5202",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5202",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.05",
+    "ne:gn_id":"241444",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Anse Royale",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE05",
+    "ne:gns_id":"-1322399",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Anse Royale",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.74560000000",
+    "ne:longitude":"55.51180000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Anse Royale",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549870,
+    "ne:woe_label":"",
+    "ne:woe_name":"Anse Royale",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Anse Royale",
+    "qs:a1_lc":"SYC-5202",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"7",
+    "statoids:area_mi":"3",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE05",
+    "statoids:hasc":"SC.RO",
+    "statoids:iso":"05",
+    "statoids:name":"Anse Royale",
+    "statoids:population":"4168",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-05",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE05",
+        "gn:id":241444,
+        "gp:id":24549870,
+        "hasc:id":"SC.RO",
+        "iso:id":"SC-05",
+        "qs:id":507454,
+        "unlc:id":"SC-05",
+        "wd:id":"Q3241674"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"30753a884da66a5cdde05aaa29eaa3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678257
+        }
+    ],
+    "wof:id":85678257,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550499,
+    "wof:name":"Anse Royale",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":4168,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"RO",
+    "wof:subdivision":"SC-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50440237726792,
+    -4.77134834714843,
+    55.52808655844797,
+    -4.71983233759227
+],
+  "geometry": {"coordinates":[[[55.52808655844797,-4.73683208373365],[55.51966095408983,-4.73917252978839],[55.51685241900401,-4.75040666833303],[55.52574611239322,-4.77006641213518],[55.50967069574608,-4.77134834714843],[55.5057194568875,-4.76125073853069],[55.50440237726792,-4.7432506521958],[55.50503229660325,-4.73908861764556],[55.50794671337019,-4.71983233759227],[55.50967069574608,-4.72525056676022],[55.52808655844797,-4.73683208373365]]],"type":"Polygon"}
+}

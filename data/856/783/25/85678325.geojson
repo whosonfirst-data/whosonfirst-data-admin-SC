@@ -1,0 +1,305 @@
+{
+  "id": 85678325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002361,
+    "geom:area_square_m":29095472.291627,
+    "geom:bbox":"55.3605115208,-4.680292097,55.45918265,-4.62383544865",
+    "geom:latitude":-4.650916,
+    "geom:longitude":55.417012,
+    "gn:population":2273,
+    "iso:country":"SC",
+    "label:eng_x_preferred_longname":[
+        "Port Glaud District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-4.652779,
+    "lbl:longitude":55.427072,
+    "mps:latitude":-4.652779,
+    "mps:longitude":55.427072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u063a\u0644\u0627\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u0997\u09cd\u09b2\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u7279\u683c\u52de\u5fb7\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:deu_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:dut_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:eng_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:eng_x_variant":[
+        "Pt Glaud",
+        "Pt. Glaud"
+    ],
+    "name:fin_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:fra_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:fre_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:ger_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u0393\u03ba\u03bb\u03cc\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0a97\u0acd\u0ab2\u0abe\u0a89\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0917\u094d\u0932\u093e\u0909\u0926"
+    ],
+    "name:ind_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:ita_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30b0\u30e9\u30f3\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0c97\u0ccd\u0cb2\u0cbe\u0ca1\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\uae00\ub85c\ub4dc \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Portglo"
+    ],
+    "name:lit_x_preferred":[
+        "Port Glo"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0917\u094d\u0932\u0949\u0906\u0926"
+    ],
+    "name:may_x_preferred":[
+        "Pelabuhan Glaud"
+    ],
+    "name:msa_x_preferred":[
+        "Pelabuhan Glaud"
+    ],
+    "name:nld_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:nob_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:pol_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:por_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Port Glaud"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Port Glaud"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440 \u0413\u043b\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0dbb\u0dca\u0da7\u0dca \u0d9c\u0dca\u0dbd\u0dde\u0da9\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:swe_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b95\u0bbf\u0bb2\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c17\u0c4d\u0c32\u0c3e\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e01\u0e25\u0e32\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440 \u0413\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u062c\u0644\u0627\u0648\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Port Glaud"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7279\u683c\u52de\u5fb7\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"SYC",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"SYC-5218",
+    "ne:adm1_code":"SYC-5218",
+    "ne:admin":"Seychelles",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"SC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5218",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Seychelles",
+    "ne:gn_a1_code":"SC.27",
+    "ne:gn_id":"241215",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Port Glaud",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SE27",
+    "ne:gns_id":"-1322636",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Port Glaud",
+    "ne:gns_region":"",
+    "ne:gu_a3":"SYC",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"SC-",
+    "ne:iso_a2":"SC",
+    "ne:labelrank":"20",
+    "ne:latitude":"-4.65351000000",
+    "ne:longitude":"55.42620000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":3,
+    "ne:name":"Port Glaud",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"SYC",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":24549876,
+    "ne:woe_label":"",
+    "ne:woe_name":"Port Glaud",
+    "qs:a0":"Seychelles",
+    "qs:a0_lc":"SC",
+    "qs:a1":"Port Glaud",
+    "qs:a1_lc":"SYC-5218",
+    "qs:adm0":"Seychelles",
+    "qs:adm0_a3":"SYC",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-08-26",
+    "statoids:area_km":"27",
+    "statoids:area_mi":"10",
+    "statoids:as_of_date":"2010-08-26",
+    "statoids:capital":"",
+    "statoids:country":"SC",
+    "statoids:gec":"SE27",
+    "statoids:hasc":"SC.PG",
+    "statoids:iso":"21",
+    "statoids:name":"Port Glaud",
+    "statoids:population":"2572",
+    "statoids:timezone":"+4",
+    "statoids:type":"district",
+    "unlc:subdivision":"SC-21",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102193527,
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SE27",
+        "gn:id":241215,
+        "gp:id":24549876,
+        "hasc:id":"SC.PG",
+        "iso:id":"SC-21",
+        "qs:id":507459,
+        "unlc:id":"SC-21",
+        "wd:id":"Q1808165"
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"8de9656e41b101f5461a25501f16ae3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "region_id":85678325
+        }
+    ],
+    "wof:id":85678325,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "fra",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "eng"
+    ],
+    "wof:lastmodified":1553550520,
+    "wof:name":"Port Glaud",
+    "wof:parent_id":85632661,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":2572,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:shortcode":"PG",
+    "wof:subdivision":"SC-21",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.36051152079011,
+    -4.68029209700262,
+    55.45918264995936,
+    -4.62383544864701
+],
+  "geometry": {"coordinates":[[[[55.40536764230291,-4.67992741291971],[55.40409124891204,-4.68029209700262],[55.40007972579878,-4.67573354776499],[55.39752693811778,-4.67336310212539],[55.39770928015923,-4.67135734056876],[55.39643288676837,-4.66971626309504],[55.39716225403487,-4.66843986970417],[55.39898567355004,-4.66862221174563],[55.40117377714813,-4.66953392105358],[55.40482061617854,-4.67172202465167],[55.40682637773517,-4.67500417959917],[55.40591466842727,-4.67810399340453],[55.40536764230291,-4.67992741291971]]],[[[55.37382248352083,-4.66643410814754],[55.37291077421293,-4.66789284357981],[55.36981096040756,-4.666616450189],[55.36488772798629,-4.66588708202317],[55.36197025622238,-4.66369897842509],[55.36051152079011,-4.66132853278549],[55.3626996243882,-4.65932277122886],[55.36616412137715,-4.66059916551905],[55.37054032857338,-4.66388132046654],[55.37382248352083,-4.66643410814754]]],[[[55.44118256362447,-4.63612819086325],[55.44513380248304,-4.65061606487944],[55.45918264995936,-4.65764048861763],[55.45523141110078,-4.66510393889564],[55.44688990864245,-4.66642101761585],[55.44645088210257,-4.67256738827427],[55.449963093522,-4.67388446789386],[55.44897949510766,-4.67785285412589],[55.43540491050828,-4.67644858613329],[55.41808561276088,-4.6661506256508],[55.40919682337477,-4.6607815075605],[55.40170249397499,-4.66053355637848],[55.39442712521173,-4.65786403579659],[55.3948967107147,-4.65385989341928],[55.40007972579878,-4.65294080337532],[55.39752693811778,-4.64984098956995],[55.38950389189114,-4.64728820278827],[55.37965742614938,-4.64947630638636],[55.37126969673915,-4.64692351870536],[55.36561709615211,-4.64272965355065],[55.36725817362588,-4.63926515656169],[55.37491653576956,-4.63999452472751],[55.37765166459269,-4.63780642112937],[55.3747341937281,-4.63270084576737],[55.38047779041773,-4.62718699348494],[55.40869460417269,-4.64139650844209],[55.41967026587014,-4.63656721740313],[55.41791416061005,-4.62910376712512],[55.43152398154655,-4.62383544864701],[55.43503619296598,-4.63042084584532],[55.44118256362447,-4.63612819086325]]]],"type":"MultiPolygon"}
+}

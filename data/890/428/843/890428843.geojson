@@ -1,0 +1,61 @@
+{
+  "id": 890428843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.0,-7.5,52.0,-7.5",
+    "geom:latitude":-7.5,
+    "geom:longitude":52.0,
+    "gn:country":"SC",
+    "gn:fcode":"ADMD",
+    "gn:pop":1167,
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Outer Islands",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        85632661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448411,
+        "qs:id":80349,
+        "wk:page":"Outer Island"
+    },
+    "wof:country":"SC",
+    "wof:created":1469051775,
+    "wof:geomhash":"155502fe15ccdb0e4600461919df26ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632661,
+            "localadmin_id":890428843
+        }
+    ],
+    "wof:id":890428843,
+    "wof:lastmodified":1527782116,
+    "wof:name":"Outer Islands",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":1167,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.0,
+    -7.5,
+    52.0,
+    -7.5
+],
+  "geometry": {"coordinates":[52.0,-7.5],"type":"Point"}
+}

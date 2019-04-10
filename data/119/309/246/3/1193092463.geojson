@@ -1,0 +1,65 @@
+{
+  "id": 1193092463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.83269,-4.34808,55.83269,-4.34808",
+    "geom:latitude":-4.34808,
+    "geom:longitude":55.83269,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"La Passe",
+    "gn:country_code":"SC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":11103219,
+    "gn:latitude":-4.34808,
+    "gn:longitude":55.83269,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"La Passe",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mahe",
+    "iso:country":"SC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        85678301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103219
+    },
+    "wof:country":"SC",
+    "wof:geomhash":"0cd098f382febd35ec73b1274ed02305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "locality_id":1193092463,
+            "region_id":85678301
+        }
+    ],
+    "wof:id":1193092463,
+    "wof:lastmodified":1536369044,
+    "wof:name":"La Passe",
+    "wof:parent_id":85678301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.83269,
+    -4.34808,
+    55.83269,
+    -4.34808
+],
+  "geometry": {"coordinates":[55.83269,-4.34808],"type":"Point"}
+}
