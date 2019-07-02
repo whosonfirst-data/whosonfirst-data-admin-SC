@@ -34,14 +34,14 @@
     "name:cat_x_preferred":[
         "Cascade"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u65af\u5580\u5f97\u5340"
-    ],
     "name:dan_x_preferred":[
         "Cascade"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cascade"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03ba\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Cascade"
@@ -49,14 +49,8 @@
     "name:fin_x_preferred":[
         "Cascade"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cascade"
-    ],
-    "name:ger_x_preferred":[
-        "Cascade"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03ba\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0abe\u0a95\u0ac7\u0aa1"
@@ -88,7 +82,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0938\u0915\u0947\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Cascade"
+    ],
+    "name:nld_x_preferred":[
         "Cascade"
     ],
     "name:nob_x_preferred":[
@@ -101,9 +98,6 @@
         "Cascade"
     ],
     "name:ron_x_preferred":[
-        "Districtul Cascade"
-    ],
-    "name:rum_x_preferred":[
         "Districtul Cascade"
     ],
     "name:rus_x_preferred":[
@@ -264,7 +258,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550575,
+    "wof:lastmodified":1561839530,
     "wof:name":"Cascade",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -144,9 +144,6 @@
     "name:cym_x_preferred":[
         "Seychelles"
     ],
-    "name:cze_x_preferred":[
-        "Seychely"
-    ],
     "name:dan_x_preferred":[
         "Seychellerne"
     ],
@@ -770,7 +767,6 @@
     ],
     "name:zho_x_variant":[
         "\u585e\u5e2d\u723e",
-        "\u585e\u820c\u5c14",
         "\u585e\u820c\u5c14\u7fa4\u5c9b"
     ],
     "name:zho_yue_x_preferred":[
@@ -927,7 +923,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1544059260,
+    "wof:lastmodified":1561839530,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
