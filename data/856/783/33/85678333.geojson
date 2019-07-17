@@ -28,10 +28,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0627\u0645\u0627\u0643\u0627\u060c \u0633\u064a\u0634\u064a\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0643\u0627\u0645\u0627\u0643\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0995\u09be\u09ae\u09be\u0995\u09be"
     ],
     "name:cat_x_preferred":[
+        "Takamaka"
+    ],
+    "name:ceb_x_preferred":[
         "Takamaka"
     ],
     "name:dan_x_preferred":[
@@ -70,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0c95\u0cae\u0cbe\u0c95"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d9\u10d0\u10db\u10d0\u10d9\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uce74\ub9c8\uce74 \uad6c"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:lit_x_preferred":[
         "Takamaka"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d15\u0d2e\u0d15 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093e\u092e\u0947\u0915"
@@ -261,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347040,
     "wof:name":"Takamaka",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

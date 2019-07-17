@@ -73,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0cb2\u0ccd \u0c8f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da-\u10d4\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubca8\uc5d0\ub974 \uad6c"
     ],
@@ -262,7 +265,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347035,
     "wof:name":"Bel Air",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

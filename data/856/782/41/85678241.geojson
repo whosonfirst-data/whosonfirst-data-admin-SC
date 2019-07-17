@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Anse Boileau"
     ],
+    "name:ceb_x_preferred":[
+        "Anse Boileau"
+    ],
     "name:dan_x_preferred":[
         "Anse Boileau"
     ],
@@ -73,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0ca8\u0ccd\u0cb8\u0ccd \u0cac\u0ccb\u0cb2\u0cbf\u0caf\u0ccc"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1-\u10d1\u10e3\u10d0\u10da\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc559\uc2a4\ubd80\uc54c\ub85c \uad6c"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Anne Sandy Point"
+    ],
+    "name:nob_x_variant":[
+        "Anse Boileau"
     ],
     "name:pol_x_preferred":[
         "Anse Boileau"
@@ -264,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347038,
     "wof:name":"Anse Boileau",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Cascade"
     ],
+    "name:ceb_x_preferred":[
+        "Cascade"
+    ],
     "name:dan_x_preferred":[
         "Cascade"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb8\u0ccd\u0c95\u0cc7\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10d9\u10d0\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uce74\uc2a4\uce74\ub4dc \uad6c"
@@ -258,7 +264,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347039,
     "wof:name":"Cascade",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

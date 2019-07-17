@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Belombre"
     ],
+    "name:eng_x_variant":[
+        "Bel Ombre"
+    ],
     "name:fin_x_preferred":[
         "Bel Ombre"
     ],
@@ -73,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0cb2\u0ccd \u0c93\u0cae\u0ccd\u0cac\u0ccd\u0cb0\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da-\u10dd\u10db\u10d1\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubca8\uc634\ube0c\ub974 \uad6c"
     ],
@@ -97,8 +103,14 @@
     "name:nob_x_preferred":[
         "Saint Paul Charlestown"
     ],
+    "name:nob_x_variant":[
+        "Bel Ombre"
+    ],
     "name:pol_x_preferred":[
         "Bel Ombre"
+    ],
+    "name:pol_x_variant":[
+        "Belombre"
     ],
     "name:por_x_preferred":[
         "Bel Ombre"
@@ -267,7 +279,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347039,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

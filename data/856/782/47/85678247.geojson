@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Anse Etoile"
     ],
+    "name:ceb_x_preferred":[
+        "Anse Etoile"
+    ],
     "name:dan_x_preferred":[
         "Anse Etoile"
     ],
@@ -76,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0ca8\u0ccd\u0cb8\u0ccd \u0c8e\u0c9f\u0cc8\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1-\u10d4\u10e2\u10e3\u10d0\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc559\uc2a4\uc5d0\ud22c\uc54c \uad6c"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint George Basseterre"
+    ],
+    "name:nob_x_variant":[
+        "Anse Etoile"
     ],
     "name:pol_x_preferred":[
         "Anse Etoile"
@@ -266,7 +275,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347040,
     "wof:name":"Anse Etoile",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -56,6 +56,9 @@
     "name:ast_x_variant":[
         "Seixeles"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0634\u0644"
+    ],
     "name:aze_x_preferred":[
         "Sey\u015fel adalar\u0131"
     ],
@@ -65,11 +68,17 @@
     "name:bak_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b \u0423\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
     ],
+    "name:bak_x_variant":[
+        "\u0421\u0435\u0439\u0448\u0435\u043b\u044c \u0423\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
+    ],
     "name:bam_x_preferred":[
         "Seshel"
     ],
     "name:bam_x_variant":[
         "Ses\u025bli"
+    ],
+    "name:bar_x_preferred":[
+        "Seychelln"
     ],
     "name:bcl_x_preferred":[
         "Seytsilyes"
@@ -85,6 +94,9 @@
     ],
     "name:ben_x_variant":[
         "\u09b8\u09bf\u09b8\u09bf\u09b2\u09bf"
+    ],
+    "name:bho_x_preferred":[
+        "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
     ],
     "name:bjn_x_preferred":[
         "Seychelles"
@@ -129,6 +141,9 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
     ],
+    "name:che_x_variant":[
+        "\u0421\u0435\u0439\u0448\u0435\u043b\u0430\u043d \u0433l\u0430\u0439\u0440\u0435\u0448"
+    ],
     "name:chv_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
     ],
@@ -137,6 +152,9 @@
     ],
     "name:cor_x_preferred":[
         "Seychellys"
+    ],
+    "name:cre_x_preferred":[
+        "Repiblik Sesel"
     ],
     "name:crh_x_preferred":[
         "Sey\u015feller"
@@ -161,6 +179,9 @@
     ],
     "name:dsb_x_preferred":[
         "Seychelle"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u0947\u0938\u0947\u0932\u094d\u0938"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03cb\u03c7\u03ad\u03bb\u03bb\u03b5\u03c2"
@@ -224,6 +245,9 @@
     "name:frp_x_preferred":[
         "S\u00each\u00b7\u00e8les"
     ],
+    "name:frr_x_preferred":[
+        "Seschelen"
+    ],
     "name:fry_x_preferred":[
         "Seysjellen"
     ],
@@ -249,8 +273,17 @@
     "name:glv_x_preferred":[
         "Ny h-Ellanyn Heshell"
     ],
+    "name:grn_x_preferred":[
+        "S\u00e9ichele"
+    ],
+    "name:gsw_x_preferred":[
+        "Seychellen"
+    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
     ],
     "name:hak_x_preferred":[
         "Seychelles"
@@ -260,6 +293,9 @@
     ],
     "name:hau_x_preferred":[
         "Saishal"
+    ],
+    "name:hau_x_variant":[
+        "Seychelles"
     ],
     "name:hbs_x_preferred":[
         "Sej\u0161eli"
@@ -331,6 +367,9 @@
     "name:jav_x_preferred":[
         "S\u00e8ych\u00e8lles"
     ],
+    "name:jav_x_variant":[
+        "Seychelles"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30fc\u30b7\u30a7\u30eb"
     ],
@@ -399,6 +438,9 @@
     "name:lav_x_variant":[
         "Sei\u0161e\u013cu salas"
     ],
+    "name:lfn_x_preferred":[
+        "Sexeles"
+    ],
     "name:lij_x_preferred":[
         "Seychelles"
     ],
@@ -432,11 +474,15 @@
     "name:lug_x_variant":[
         "Sesere"
     ],
+    "name:lzh_x_preferred":[
+        "\u585e\u5e2d\u723e"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d2f\u0d4d\u200c\u0d37\u0d46\u0d7d\u0d38\u0d4d"
     ],
     "name:mal_x_variant":[
-        "\u0d38\u0d46\u0d2f\u0d4d\u0d37\u0d46\u0d32\u0d4d\u200d\u0d38\u0d4d"
+        "\u0d38\u0d46\u0d2f\u0d4d\u0d37\u0d46\u0d32\u0d4d\u200d\u0d38\u0d4d",
+        "\u0d38\u0d46\u0d2f\u0d4d \u0d37\u0d46\u0d7d\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
@@ -467,6 +513,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0633\u06cc\u0634\u0644"
+    ],
+    "name:nah_x_preferred":[
+        "Seychelles"
+    ],
+    "name:nan_x_preferred":[
+        "Seychelles"
     ],
     "name:nav_x_preferred":[
         "Seishel"
@@ -507,11 +559,15 @@
     "name:oci_x_preferred":[
         "Seich\u00e8las"
     ],
+    "name:olo_x_preferred":[
+        "Sei\u0161ellit"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b47\u0b36\u0b47\u0b32\u0b1c"
     ],
     "name:ori_x_variant":[
-        "\u0b38\u0b47\u0b1a\u0b47\u0b32\u0b38\u0b4d"
+        "\u0b38\u0b47\u0b1a\u0b47\u0b32\u0b38\u0b4d",
+        "\u0b38\u0b47\u0b38\u0b47\u0b32\u0b1c"
     ],
     "name:orm_x_preferred":[
         "Siishelsi"
@@ -545,7 +601,6 @@
     ],
     "name:por_x_variant":[
         "Ilhas Seychelles",
-        "Seicheles",
         "Seychelles"
     ],
     "name:pus_x_preferred":[
@@ -584,6 +639,9 @@
     "name:sco_x_preferred":[
         "Seychelles"
     ],
+    "name:sgs_x_preferred":[
+        "Sei\u0161iel\u0113"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd3\u0dc2\u0dd9\u0dbd\u0dca\u0dc3\u0dca"
     ],
@@ -599,6 +657,9 @@
     "name:sme_x_preferred":[
         "Seychellsullot"
     ],
+    "name:smo_x_preferred":[
+        "Seychelles"
+    ],
     "name:sna_x_preferred":[
         "Seychelles"
     ],
@@ -606,7 +667,8 @@
         "Siishilis"
     ],
     "name:som_x_variant":[
-        "Sishelis"
+        "Sishelis",
+        "Seyshelles"
     ],
     "name:sot_x_preferred":[
         "Seychelles"
@@ -659,6 +721,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c40\u0c37\u0c46\u0c32\u0c4d\u0c38\u0c4d"
     ],
+    "name:tel_x_variant":[
+        "\u0c38\u0c47\u0c37\u0c46\u0c32\u0c4d\u0c38\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u04b6\u0430\u0437\u0438\u0440\u0430\u04b3\u043e\u0438 \u0421\u0435\u0439\u0448\u0435\u043b"
     ],
@@ -692,6 +757,9 @@
     "name:tur_x_variant":[
         "Sey\u015fel Adalar\u0131",
         "Seychelles"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0435\u0439\u0448\u0435\u043b \u0448\u043e\u0440\u043c\u0443\u04f5\u044a\u0451\u0441"
     ],
     "name:uig_x_preferred":[
         "\u0633\u06d0\u064a\u0634\u06d0\u0644 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
@@ -741,6 +809,9 @@
     "name:wol_x_preferred":[
         "Seysel"
     ],
+    "name:wuu_x_preferred":[
+        "\u585e\u820c\u5c14"
+    ],
     "name:xal_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b \u0410\u0440\u043b\u0438\u043d \u041e\u0440\u043d"
     ],
@@ -756,8 +827,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de se\u1e63\u1eb9l\u1eb9si"
     ],
+    "name:yue_x_preferred":[
+        "\u585e\u820c\u723e"
+    ],
     "name:zea_x_preferred":[
         "Seychell'n"
+    ],
+    "name:zha_x_preferred":[
+        "Seychelles"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sesel"
@@ -923,7 +1000,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347049,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

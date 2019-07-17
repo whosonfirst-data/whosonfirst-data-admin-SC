@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Plaisance"
     ],
+    "name:ceb_x_preferred":[
+        "Plaisance"
+    ],
     "name:dan_x_preferred":[
         "Plaisance"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb2\u0cc8\u0cb8\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d4\u10d6\u10d0\u10dc\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub808\uc7a5\uc2a4 \uad6c"
@@ -262,7 +268,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347045,
     "wof:name":"Plaisance",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

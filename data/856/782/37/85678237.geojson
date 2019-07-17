@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Anse aux Pins"
     ],
+    "name:ceb_x_preferred":[
+        "Anse aux Pins"
+    ],
     "name:dan_x_preferred":[
         "Anse-aux-Pins"
     ],
@@ -76,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0ca8\u0ccd\u0cb8\u0cc6-\u0c86\u0c95\u0ccd\u0cb8\u0ccd-\u0caa\u0cbf\u0ca8\u0ccd\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1-\u10dd-\u10de\u10d4\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc559\uc2a4\uc624\ud33d \uad6c"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:nob_x_preferred":[
         "Christ Church Nichola Town"
+    ],
+    "name:nob_x_variant":[
+        "Anse aux Pins"
     ],
     "name:pol_x_preferred":[
         "Anse aux Pins"
@@ -268,7 +277,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347038,
     "wof:name":"Anse aux Pins",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

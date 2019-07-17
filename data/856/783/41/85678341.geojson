@@ -28,10 +28,16 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u062a\u0634 \u0643\u0627\u064a\u0645\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0634 \u0643\u0627\u064a\u0645\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u099a \u0995\u09be\u0987\u09ae\u09cd\u09af\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
+        "Roche Caiman"
+    ],
+    "name:ceb_x_preferred":[
         "Roche Caiman"
     ],
     "name:dan_x_preferred":[
@@ -69,6 +75,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb0\u0ccb\u0c9a\u0cc6 \u0c95\u0cc8\u0cae\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10e8-\u10d9\u10d0\u10d8\u10db\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc288\uce74\uc774\ub9dd \uad6c"
@@ -261,7 +270,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347044,
     "wof:name":"Roche Ca\u00efman",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
