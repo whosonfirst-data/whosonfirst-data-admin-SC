@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Saint Louis"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Louis"
+    ],
     "name:dan_x_preferred":[
         "Saint Louis"
     ],
@@ -77,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cb2\u0cc2\u0caf\u0cbf\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc-\u10da\u10e3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0dd\ub8e8\uc774 \uad6c"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:lit_x_preferred":[
         "Saint Luisas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d28\u0d4d\u0d31\u0d4d \u0d32\u0d42\u0d2f\u0d3f\u0d38\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0908\u0938"
@@ -266,7 +275,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347042,
     "wof:name":"Saint Louis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

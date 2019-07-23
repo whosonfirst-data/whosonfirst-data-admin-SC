@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Beau Vallon"
     ],
+    "name:ceb_x_preferred":[
+        "Beau Vallon"
+    ],
     "name:dan_x_preferred":[
         "Beau Vallon"
     ],
@@ -73,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0caf\u0cc2 \u0cb5\u0cbe\u0cb2\u0ccd\u0cb2\u0cca\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd-\u10d5\u10d0\u10da\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\ubc1c\ub871 \uad6c"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Mary Cayon"
+    ],
+    "name:nob_x_variant":[
+        "Beau Vallon"
     ],
     "name:pol_x_preferred":[
         "Beau Vallon"
@@ -264,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347034,
     "wof:name":"Beau Vallon",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

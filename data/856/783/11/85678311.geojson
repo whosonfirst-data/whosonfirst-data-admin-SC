@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Mont Fleuri"
     ],
+    "name:ceb_x_preferred":[
+        "Mont Fleuri"
+    ],
     "name:dan_x_preferred":[
         "Mont Fleuri"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0ccd \u0cab\u0ccd\u0cb2\u0cc2\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc-\u10e4\u10da\u10dd\u10e0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubabd\ud50c\ub8b0\ub9ac \uad6c"
@@ -263,7 +269,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347041,
     "wof:name":"Mont Fleuri",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

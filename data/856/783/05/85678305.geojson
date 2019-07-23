@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "La Riviere Anglaise"
     ],
+    "name:ceb_x_preferred":[
+        "English River"
+    ],
     "name:dan_x_preferred":[
         "La Rivi\u00e8re Anglaise"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "English River"
+    ],
+    "name:eng_x_variant":[
+        "La Rivi\u00e8re Anglaise"
     ],
     "name:fin_x_preferred":[
         "La Rivi\u00e8re Anglaise"
@@ -69,6 +75,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe \u0cb0\u0cbf\u0cb5\u0cbf\u0caf\u0cb0\u0ccd \u0c86\u0c82\u0c97\u0ccd\u0cb2\u0cc8\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10e0\u10d8\u10d5\u10d8\u10d4\u10e0-\u10d0\u10dc\u10d2\u10da\u10d4\u10d6\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ub9ac\ube44\uc5d0\ub974\uc559\uae00\ub808\uc988 \uad6c"
@@ -259,7 +268,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347041,
     "wof:name":"English River",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

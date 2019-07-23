@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Mont Buxton"
     ],
+    "name:ceb_x_preferred":[
+        "Mont Buxton"
+    ],
     "name:dan_x_preferred":[
         "Mont Buxton"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0ccd \u0cac\u0c95\u0ccd\u0cb8\u0ccd\u0c9f\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc-\u10d1\u10d0\u10e5\u10e1\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubabd\ubdd5\uc2a4\ud1b5 \uad6c"
@@ -262,7 +268,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347042,
     "wof:name":"Mont Buxton",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

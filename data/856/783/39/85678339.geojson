@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Les Mamelles"
     ],
+    "name:ceb_x_preferred":[
+        "Les Mamelles"
+    ],
     "name:dan_x_preferred":[
         "Les Mamelles"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cc6\u0cb8\u0ccd \u0cae\u0cae\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4-\u10db\u10d0\u10db\u10d4\u10da\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub808\ub9c8\uba5c \uad6c"
@@ -257,7 +263,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347043,
     "wof:name":"Les Mamelles",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

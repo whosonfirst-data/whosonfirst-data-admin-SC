@@ -28,10 +28,16 @@
     "name:ara_x_preferred":[
         "\u063a\u0644\u0627\u0633\u064a\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u043b\u0430\u0441\u0456\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b2\u09be\u099a\u09bf\u099a"
     ],
     "name:cat_x_preferred":[
+        "Glacis"
+    ],
+    "name:ceb_x_preferred":[
         "Glacis"
     ],
     "name:dan_x_preferred":[
@@ -70,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0cb2\u0cc7\u0cb8\u0cbf\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uae00\ub77c\uc2dc \uad6c"
     ],
@@ -93,6 +102,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Thomas Lowland"
+    ],
+    "name:nob_x_variant":[
+        "Glacis"
     ],
     "name:pol_x_preferred":[
         "Glacis"
@@ -262,7 +274,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347035,
     "wof:name":"Glacis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

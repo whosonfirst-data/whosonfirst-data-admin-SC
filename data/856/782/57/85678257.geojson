@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Anse Royale"
     ],
+    "name:ceb_x_preferred":[
+        "Anse Royale"
+    ],
     "name:dan_x_preferred":[
         "Anse Royale"
     ],
@@ -70,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0ca8\u0ccd\u0cb8\u0cc6 \u0cb0\u0cbe\u0caf\u0cc7\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1-\u10e0\u10e3\u10d0\u10d8\u10d0\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc559\uc2a4\ub8e8\uc544\uc584 \uad6c"
     ],
@@ -93,6 +99,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint James Windward"
+    ],
+    "name:nob_x_variant":[
+        "Anse Royale"
     ],
     "name:pol_x_preferred":[
         "Anse Royale"
@@ -261,7 +270,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839529,
+    "wof:lastmodified":1563347034,
     "wof:name":"Anse Royale",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

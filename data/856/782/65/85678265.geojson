@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Baie Sainte Anne"
     ],
+    "name:ceb_x_preferred":[
+        "Baie Sainte Anne"
+    ],
     "name:dan_x_preferred":[
         "Baie Sainte Anne"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc8\u0caf\u0cbf \u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c85\u0ca8\u0ccd\u0ca8\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4-\u10e1\u10d4\u10dc\u10e2-\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubca0\uc0dd\ud2b8\uc548 \uad6c"
@@ -265,7 +271,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561839530,
+    "wof:lastmodified":1563347036,
     "wof:name":"Baie Sainte Anne",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
