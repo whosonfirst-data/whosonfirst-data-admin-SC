@@ -25,6 +25,21 @@
     "iso:country":"SC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Reunion"
+    ],
+    "name:fra_x_preferred":[
+        "La R\u00e9union"
+    ],
+    "name:nld_x_preferred":[
+        "La R\u00e9union"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0420\u0435\u0443\u043d\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "La Reunion"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209871563,
-    "wof:lastmodified":1536373058,
+    "wof:lastmodified":1564155383,
     "wof:name":"La Reunion",
     "wof:parent_id":85678301,
     "wof:placetype":"locality",
