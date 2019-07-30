@@ -24,6 +24,48 @@
     "iso:country":"SC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:ceb_x_preferred":[
+        "Pointe Larue"
+    ],
+    "name:deu_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:fra_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:ind_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:ita_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d0\u10dc\u10e2-\u10da\u10d0-\u10e0\u10e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc575\ud2b8\ub77c\ub8e8 \uad6c"
+    ],
+    "name:msa_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:nld_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:pol_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Pointe La Rue"
+    ],
+    "name:swe_x_preferred":[
+        "Pointe La Rue"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5b89\u7279\u62c9\u5112\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102193527,
@@ -45,7 +87,7 @@
         }
     ],
     "wof:id":1343272479,
-    "wof:lastmodified":1537016753,
+    "wof:lastmodified":1564155380,
     "wof:name":"Pointe La Rue",
     "wof:parent_id":85678237,
     "wof:placetype":"locality",

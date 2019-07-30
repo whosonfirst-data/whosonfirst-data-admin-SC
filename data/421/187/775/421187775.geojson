@@ -5,12 +5,56 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"55.489711,-4.758723,55.489711,-4.758723",
     "geom:latitude":-4.758723,
     "geom:longitude":55.489711,
     "iso:country":"SC",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:ceb_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:deu_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:fra_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:ind_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:ita_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4-\u10da\u10d0\u10d6\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub77c\uc790\ub974 \uad6c"
+    ],
+    "name:msa_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:nld_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:pol_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Baie Lazare"
+    ],
+    "name:swe_x_preferred":[
+        "Baie Lazare"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u62c9\u624e\u723e\u5340"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +86,7 @@
     },
     "wof:country":"SC",
     "wof:created":1459009523,
-    "wof:geomhash":"d0881ba3f7e0a47c73bf5ad20fe82de8",
+    "wof:geomhash":"3cc248950b952998cc45357866c818d3",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -52,7 +96,7 @@
         }
     ],
     "wof:id":421187775,
-    "wof:lastmodified":1466635865,
+    "wof:lastmodified":1564155384,
     "wof:name":"Baie Lazare",
     "wof:parent_id":85678259,
     "wof:placetype":"locality",
