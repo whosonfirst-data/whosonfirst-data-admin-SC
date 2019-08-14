@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DI"
+    ],
     "lbl:latitude":-4.475551,
     "lbl:longitude":55.244252,
     "mps:latitude":-4.475551,
@@ -258,7 +261,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347043,
+    "wof:lastmodified":1565736302,
     "wof:name":"La Digue and Inner Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

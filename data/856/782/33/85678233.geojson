@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "unorganized territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OI"
+    ],
     "lbl:latitude":-9.40574,
     "lbl:longitude":46.440662,
     "mps:latitude":-9.40574,
@@ -148,9 +151,6 @@
         }
     ],
     "wof:id":85678233,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -159,7 +159,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550494,
+    "wof:lastmodified":1565736301,
     "wof:name":"Outer Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

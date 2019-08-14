@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":-4.744454,
     "lbl:longitude":55.511348,
     "mps:latitude":-4.744454,
@@ -259,9 +262,6 @@
         }
     ],
     "wof:id":85678257,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -270,7 +270,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347034,
+    "wof:lastmodified":1565736301,
     "wof:name":"Anse Royale",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

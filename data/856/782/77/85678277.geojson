@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-4.627064,
     "lbl:longitude":55.406652,
     "mps:latitude":-4.627064,
@@ -268,9 +271,6 @@
         }
     ],
     "wof:id":85678277,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -279,7 +279,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347039,
+    "wof:lastmodified":1565736302,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

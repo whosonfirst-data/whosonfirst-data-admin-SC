@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GM"
+    ],
     "lbl:latitude":-4.683627,
     "lbl:longitude":55.471009,
     "mps:latitude":-4.683627,
@@ -191,9 +194,6 @@
         }
     ],
     "wof:id":85678291,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -202,7 +202,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347036,
+    "wof:lastmodified":1565736301,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

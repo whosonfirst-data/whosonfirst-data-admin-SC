@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RC"
+    ],
     "lbl:latitude":-4.649484,
     "lbl:longitude":55.483181,
     "mps:latitude":-4.649484,
@@ -259,9 +262,6 @@
         }
     ],
     "wof:id":85678341,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -270,7 +270,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347044,
+    "wof:lastmodified":1565736302,
     "wof:name":"Roche Ca\u00efman",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

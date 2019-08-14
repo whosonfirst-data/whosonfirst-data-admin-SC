@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LO"
+    ],
     "lbl:latitude":-4.698904,
     "lbl:longitude":55.513177,
     "mps:latitude":-4.698904,
@@ -257,9 +260,6 @@
         }
     ],
     "wof:id":85678253,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -268,7 +268,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347037,
+    "wof:lastmodified":1565736301,
     "wof:name":"Au Cap",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

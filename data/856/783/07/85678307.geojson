@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MB"
+    ],
     "lbl:latitude":-4.612579,
     "lbl:longitude":55.442503,
     "mps:latitude":-4.612579,
@@ -257,9 +260,6 @@
         }
     ],
     "wof:id":85678307,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -268,7 +268,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347042,
+    "wof:lastmodified":1565736302,
     "wof:name":"Mont Buxton",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

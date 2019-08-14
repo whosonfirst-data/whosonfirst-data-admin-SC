@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PR"
+    ],
     "lbl:latitude":-4.674003,
     "lbl:longitude":55.515538,
     "mps:latitude":-4.674003,
@@ -263,9 +266,6 @@
         }
     ],
     "wof:id":85678323,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -274,7 +274,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347044,
+    "wof:lastmodified":1565736302,
     "wof:name":"Pointe La Rue",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":-4.789109,
     "lbl:longitude":55.516878,
     "mps:latitude":-4.789109,
@@ -262,9 +265,6 @@
         }
     ],
     "wof:id":85678333,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -273,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347040,
+    "wof:lastmodified":1565736302,
     "wof:name":"Takamaka",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

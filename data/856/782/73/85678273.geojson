@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":-4.638595,
     "lbl:longitude":55.449934,
     "mps:latitude":-4.638595,
@@ -254,9 +257,6 @@
         }
     ],
     "wof:id":85678273,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fra",
         "eng"
@@ -265,7 +265,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563347035,
+    "wof:lastmodified":1565736301,
     "wof:name":"Bel Air",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
