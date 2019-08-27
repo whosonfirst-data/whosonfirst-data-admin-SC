@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.622192,
     "lbl:longitude":55.438434,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.622192,
     "mps:longitude":55.438434,
     "mz:hierarchy_label":1,
@@ -129,7 +130,7 @@
         "Saint Louis"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0bb2\u0bc2\u0baf\u0bbf\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c2f\u0c40"
@@ -142,9 +143,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041b\u0443\u0457\u0441"
-    ],
-    "name:unk_x_variant":[
-        "St Louis"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0648\u06cc\u0633"
@@ -224,9 +222,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-26",
+    "src:population_date":"2010-08-26",
     "statoids:area_km":"1",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2010-08-26",
@@ -252,7 +250,7 @@
         "gp:id":24549886,
         "hasc:id":"SC.SL",
         "iso:id":"SC-22",
-        "qs:id":59688,
+        "qs_pg:id":59688,
         "unlc:id":"SC-22",
         "wd:id":"Q2278695",
         "wk:page":"Saint Louis, Seychelles"
@@ -275,11 +273,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565736302,
+    "wof:lastmodified":1566638934,
     "wof:name":"Saint Louis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":3209,
     "wof:population_rank":4,

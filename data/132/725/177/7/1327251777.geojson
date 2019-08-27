@@ -23,8 +23,12 @@
     "gn:population":4163,
     "gn:timezone":"Indian/Mahe",
     "iso:country":"SC",
+    "lbl:bbox":"55.39667,-4.63667,55.43667,-4.59667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bel Ombre"
     ],
@@ -65,8 +69,7 @@
         "Belombre"
     ],
     "name:und_x_variant":[
-        "Belle Ombre",
-        "Bel Ombre"
+        "Belle Ombre"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u723e\u7fc1\u5e03\u96f7\u5340"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1327251777,
-    "wof:lastmodified":1564155378,
+    "wof:lastmodified":1566638931,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85678277,
     "wof:placetype":"locality",

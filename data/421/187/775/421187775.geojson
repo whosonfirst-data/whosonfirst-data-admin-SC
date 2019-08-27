@@ -10,8 +10,12 @@
     "geom:latitude":-4.758723,
     "geom:longitude":55.489711,
     "iso:country":"SC",
+    "lbl:bbox":"55.469711,-4.778723,55.509711,-4.738723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Baie Lazare"
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24602720,
-        "qs:id":1086030
+        "qs_pg:id":1086030
     },
     "wof:country":"SC",
     "wof:created":1459009523,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421187775,
-    "wof:lastmodified":1564155384,
+    "wof:lastmodified":1566638937,
     "wof:name":"Baie Lazare",
     "wof:parent_id":85678259,
     "wof:placetype":"locality",

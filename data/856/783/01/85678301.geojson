@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.475551,
     "lbl:longitude":55.244252,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.475551,
     "mps:longitude":55.244252,
     "mz:hierarchy_label":1,
@@ -116,7 +117,7 @@
         "La Digue and Inner Islands"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe  \u0b9f\u0bbf\u0b95\u0bc1\u0b87 \u0b85\u0ba3\u0bcd\u0b9f\u0bcd  \u0b87\u0ba8\u0bcd\u0ba8\u0bc7\u0bb0\u0bcd  \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
+        "\u0bb2\u0bbe \u0b9f\u0bbf\u0b95\u0bc1\u0b87 \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0b87\u0ba8\u0bcd\u0ba8\u0bc7\u0bb0\u0bcd \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c21\u0c3f\u0c17\u0c3e \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c07\u0c28\u0c4d\u0c28\u0c30\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
@@ -130,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u0414\u0456\u0433 \u0442\u0430 \u0412\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Digue"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +212,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-26",
+    "src:population_date":"2010-08-26",
     "statoids:area_km":"36",
     "statoids:area_mi":"14",
     "statoids:as_of_date":"2010-08-26",
@@ -228,7 +229,6 @@
     "statoids:type":"district",
     "unlc:subdivision":"SC-15",
     "wd:wordcount":190,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632661
@@ -261,11 +261,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565736302,
+    "wof:lastmodified":1566638934,
     "wof:name":"La Digue and Inner Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":3045,
     "wof:population_rank":4,
