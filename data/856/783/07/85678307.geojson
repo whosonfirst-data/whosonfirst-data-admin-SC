@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.612579,
     "lbl:longitude":55.442503,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.612579,
     "mps:longitude":55.442503,
     "mz:hierarchy_label":1,
@@ -122,7 +123,7 @@
         "Mont Buxton"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bc2\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
+        "\u0bae\u0bcb\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bc2\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c02\u0c1f\u0c4d \u0c2c\u0c41\u0c15\u0c4d\u0c38\u0c4d\u0c1f\u0c28\u0c4d"
@@ -136,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442-\u0411\u0430\u043a\u0441\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "buxton"
     ],
     "name:urd_x_preferred":[
@@ -217,9 +218,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-26",
+    "src:population_date":"2010-08-26",
     "statoids:area_km":"1",
     "statoids:area_mi":"0",
     "statoids:as_of_date":"2010-08-26",
@@ -245,7 +246,7 @@
         "gp:id":24549887,
         "hasc:id":"SC.MB",
         "iso:id":"SC-17",
-        "qs:id":59689,
+        "qs_pg:id":59689,
         "unlc:id":"SC-17",
         "wd:id":"Q3241682",
         "wk:page":"Mont Buxton"
@@ -268,11 +269,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565736302,
+    "wof:lastmodified":1566638934,
     "wof:name":"Mont Buxton",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":3089,
     "wof:population_rank":4,

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.627064,
     "lbl:longitude":55.406652,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.627064,
     "mps:longitude":55.406652,
     "mz:hierarchy_label":1,
@@ -134,7 +135,7 @@
         "Belombre"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0bb2\u0bcd   \u0b92\u0bae\u0bcd\u0baa\u0bb0\u0bc7"
+        "\u0baa\u0bc6\u0bb2\u0bcd  \u0b92\u0bae\u0bcd\u0baa\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c32\u0c4d \u0c13\u0c02\u0c2c\u0c4d\u0c30\u0c46"
@@ -147,9 +148,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b-\u041e\u043c\u0431\u0440\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Belombre"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0644 \u0648\u0645\u0628\u0631\u06cc"
@@ -229,9 +227,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-08-26",
+    "src:population_date":"2010-08-26",
     "statoids:area_km":"9",
     "statoids:area_mi":"4",
     "statoids:as_of_date":"2010-08-26",
@@ -257,7 +255,7 @@
         "gp:id":24549890,
         "hasc:id":"SC.BO",
         "iso:id":"SC-10",
-        "qs:id":59690,
+        "qs_pg:id":59690,
         "unlc:id":"SC-10",
         "wd:id":"Q3245439"
     },
@@ -279,11 +277,10 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565736302,
+    "wof:lastmodified":1566638933,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":3708,
     "wof:population_rank":4,
