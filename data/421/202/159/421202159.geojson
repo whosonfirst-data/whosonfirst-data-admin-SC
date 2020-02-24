@@ -517,6 +517,9 @@
     },
     "wof:country":"SC",
     "wof:created":1459010107,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54392fb7b8da5f536382c77a82915892",
     "wof:hierarchy":[
         {
@@ -527,7 +530,7 @@
         }
     ],
     "wof:id":421202159,
-    "wof:lastmodified":1566638937,
+    "wof:lastmodified":1582318662,
     "wof:name":"Victoria",
     "wof:parent_id":85678305,
     "wof:placetype":"locality",
