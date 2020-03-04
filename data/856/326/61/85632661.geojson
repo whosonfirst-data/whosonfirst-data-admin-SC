@@ -980,6 +980,10 @@
     },
     "wof:country":"SC",
     "wof:country_alpha3":"SYC",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"80e3275cdb1d44fce09be1cf049d03f0",
     "wof:hierarchy":[
         {
@@ -996,7 +1000,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638935,
+    "wof:lastmodified":1583205375,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
