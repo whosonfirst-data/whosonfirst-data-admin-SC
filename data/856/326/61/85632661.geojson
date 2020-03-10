@@ -958,9 +958,7 @@
         421202159
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            690
-        ],
+        "digitalenvoy:country_code":690,
         "fifa:id":"SEY",
         "fips:code":"SE",
         "gaul:id":"220",
@@ -1003,7 +1001,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583529253,
+    "wof:lastmodified":1583797463,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
