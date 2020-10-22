@@ -9,7 +9,6 @@
     "geom:bbox":"46.2073673842,-10.1260718726,56.2874455092,-5.42017994575",
     "geom:latitude":-9.234546,
     "geom:longitude":47.156055,
-    "gn:id":"",
     "iso:country":"SC",
     "label:eng_x_preferred_longname":[
         "Outer Islands Unorganized Territory"
@@ -159,7 +158,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638931,
+    "wof:lastmodified":1603245850,
     "wof:name":"Outer Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

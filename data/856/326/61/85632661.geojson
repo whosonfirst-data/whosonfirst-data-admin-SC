@@ -9,7 +9,6 @@
     "geom:bbox":"46.199528,-10.219611,56.298752,-3.712055",
     "geom:latitude":-6.722486,
     "geom:longitude":51.818593,
-    "gn:id":"",
     "gn:population":88340,
     "iso:country":"SC",
     "itu:country_code":[
@@ -1001,7 +1000,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583797463,
+    "wof:lastmodified":1603245850,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

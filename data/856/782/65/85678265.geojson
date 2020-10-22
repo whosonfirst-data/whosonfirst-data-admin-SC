@@ -9,7 +9,6 @@
     "geom:bbox":"55.6828195929,-4.35028648104,55.7870380634,-4.27684146116",
     "geom:latitude":-4.313793,
     "geom:longitude":55.738045,
-    "gn:id":"",
     "iso:country":"SC",
     "label:eng_x_preferred_longname":[
         "Baie Sainte Anne District"
@@ -272,7 +271,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638932,
+    "wof:lastmodified":1603245850,
     "wof:name":"Baie Sainte Anne",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
