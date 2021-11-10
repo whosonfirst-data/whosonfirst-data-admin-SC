@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
     "geom:area_square_m":1872558.286416,
-    "geom:bbox":"55.5039633507,-4.68912825626,55.5285546475,-4.67735210352",
+    "geom:bbox":"55.503963,-4.689128,55.528555,-4.677352",
     "geom:latitude":-4.682302,
     "geom:longitude":55.51772,
     "gn:population":3638,
@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Anse-aux-Pins"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0633\u0647 \u0627\u0648 \u067e\u06cc\u0646\u0633"
+    ],
     "name:fin_x_preferred":[
         "Anse-aux-Pins"
     ],
@@ -65,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0ab8-\u0a91\u0a95\u0acd\u0ab8-\u0aaa\u0abf\u0aa8\u0acd\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e1 \u05d0\u05d5 \u05e4\u05d9\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0902\u0938\u0947-\u0911\u0915\u094d\u0938-\u092a\u093f\u0928\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Anse aux Pins"
     ],
     "name:ind_x_preferred":[
         "Anse aux Pins"
@@ -261,7 +270,7 @@
         "wk:page":"Anse-aux-Pins"
     },
     "wof:country":"SC",
-    "wof:geomhash":"20eb2339d8c2cde27b5cde3487fad00c",
+    "wof:geomhash":"973eed6320d8e86960f22381ac1f6fe1",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -278,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638932,
+    "wof:lastmodified":1636495637,
     "wof:name":"Anse aux Pins",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -293,10 +302,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.5039633507281,
-    -4.68912825626398,
-    55.52855464747904,
-    -4.67735210351674
+    55.503963,
+    -4.689128,
+    55.528555,
+    -4.677352
 ],
-  "geometry": {"coordinates":[[[55.52855464747904,-4.68019329928131],[55.52628304812424,-4.68912825626398],[55.5039633507281,-4.68090889163199],[55.50630059609568,-4.67735210351674],[55.52855464747904,-4.68019329928131]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.528555,-4.680193],[55.526283,-4.689128],[55.503963,-4.680909],[55.506301,-4.677352],[55.528555,-4.680193]]],"type":"Polygon"}
 }

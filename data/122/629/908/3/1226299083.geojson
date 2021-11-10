@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Takamaka"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e7\u05d0\u05de\u05d0\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Takamaka"
+    ],
     "name:ind_x_preferred":[
         "Takamaka"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1226299083,
-    "wof:lastmodified":1566638938,
+    "wof:lastmodified":1636495641,
     "wof:name":"Takamaka",
     "wof:parent_id":85678259,
     "wof:placetype":"locality",

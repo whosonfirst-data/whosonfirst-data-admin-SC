@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
     "geom:area_square_m":1430091.600749,
-    "geom:bbox":"55.4315239815,-4.63042084585,55.4473289352,-4.61505491965",
+    "geom:bbox":"55.431524,-4.630421,55.447329,-4.615055",
     "geom:latitude":-4.62242,
     "geom:longitude":55.438554,
     "gn:population":3224,
@@ -66,8 +66,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0ac2\u0a87\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05dc\u05d5\u05d0\u05d9\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0907"
+    ],
+    "name:hun_x_preferred":[
+        "Saint Louis"
     ],
     "name:ind_x_preferred":[
         "Saint Louis"
@@ -256,7 +262,7 @@
         "wk:page":"Saint Louis, Seychelles"
     },
     "wof:country":"SC",
-    "wof:geomhash":"eddb0f7dc3076382c8bc4861fe072749",
+    "wof:geomhash":"21fd325f4075e338798383bf09969e6f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -273,7 +279,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638934,
+    "wof:lastmodified":1636495639,
     "wof:name":"Saint Louis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -288,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.43152398154655,
-    -4.63042084584532,
-    55.44732893518227,
-    -4.6150549196488
+    55.431524,
+    -4.630421,
+    55.447329,
+    -4.615055
 ],
-  "geometry": {"coordinates":[[[55.44732893518227,-4.6207622637674],[55.43503619296598,-4.63042084584532],[55.43152398154655,-4.62383544864701],[55.43854840528473,-4.6150549196488],[55.44732893518227,-4.6207622637674]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.447329,-4.620762],[55.435036,-4.630421],[55.431524,-4.623835],[55.438548,-4.615055],[55.447329,-4.620762]]],"type":"Polygon"}
 }

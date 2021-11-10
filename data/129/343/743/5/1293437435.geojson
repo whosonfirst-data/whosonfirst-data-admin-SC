@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Port Glaud"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05d2\u05dc\u05d0\u05d5\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Port Glaud"
+    ],
     "name:ind_x_preferred":[
         "Port Glaud"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1293437435,
-    "wof:lastmodified":1566638935,
+    "wof:lastmodified":1636495640,
     "wof:name":"Port Glaud",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

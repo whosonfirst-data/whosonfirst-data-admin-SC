@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Baie Lazare"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d4 \u05dc\u05d0\u05d6\u05d0\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Baie Lazare"
+    ],
     "name:ind_x_preferred":[
         "Baie Lazare"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421187775,
-    "wof:lastmodified":1566638937,
+    "wof:lastmodified":1636495641,
     "wof:name":"Baie Lazare",
     "wof:parent_id":85678259,
     "wof:placetype":"locality",

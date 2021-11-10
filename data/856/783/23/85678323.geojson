@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
     "geom:area_square_m":1728146.257097,
-    "geom:bbox":"55.5063005961,-4.68019329928,55.5285546475,-4.66617441272",
+    "geom:bbox":"55.506301,-4.680193,55.528555,-4.666174",
     "geom:latitude":-4.674453,
     "geom:longitude":55.516297,
     "gn:population":2775,
@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Pointe La Rue"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06cc\u0646\u062a \u0644\u0627 \u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Pointe La Rue"
     ],
@@ -65,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f\u0ac7 \u0ab2\u0abe \u0ab0\u0ac1"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05e0\u05d8 \u05dc\u05d4 \u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0949\u0907\u0902\u091f \u0932\u093e \u0930\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Pointe La Rue"
     ],
     "name:ind_x_preferred":[
         "Pointe La Rue"
@@ -255,7 +264,7 @@
         "wk:page":"Pointe La Rue"
     },
     "wof:country":"SC",
-    "wof:geomhash":"a0f1e40ed431538e73b0719aec2c00e4",
+    "wof:geomhash":"7f95b28bfa2f1b85ac9d406973f0b892",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -272,7 +281,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638934,
+    "wof:lastmodified":1636495639,
     "wof:name":"Pointe La Rue",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -287,10 +296,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.50630059609568,
-    -4.68019329928131,
-    55.52855464747904,
-    -4.66617441271893
+    55.506301,
+    -4.680193,
+    55.528555,
+    -4.666174
 ],
-  "geometry": {"coordinates":[[[55.52855464747904,-4.68019329928131],[55.50630059609568,-4.67735210351674],[55.51364570818293,-4.66617441271893],[55.51638432997288,-4.66802298267447],[55.52855464747904,-4.68019329928131]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.528555,-4.680193],[55.506301,-4.677352],[55.513646,-4.666174],[55.516384,-4.668023],[55.528555,-4.680193]]],"type":"Polygon"}
 }

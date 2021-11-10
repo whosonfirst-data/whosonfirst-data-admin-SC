@@ -141,6 +141,9 @@
         "\u0644\u0627 \u062f\u06cc\u062c\u0648\u06cc \u0627\u06cc\u0646\u0688 \u0627\u0646\u0631 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:vie_x_preferred":[
+        "La Digue v\u00e0 qu\u1ea7n \u0111\u1ea3o Inner"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1ea7n \u0111\u1ea3o La Digue v\u00e0 Inner"
     ],
     "name:zho_x_preferred":[
@@ -264,7 +267,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1614895939,
+    "wof:lastmodified":1636495639,
     "wof:name":"La Digue and Inner Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

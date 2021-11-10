@@ -341,6 +341,9 @@
         "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f"
     ],
     "name:urd_x_preferred":[
@@ -356,6 +359,9 @@
         "Viktorii"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Victoria"
+    ],
+    "name:vie_x_variant":[
         "Victoria"
     ],
     "name:vol_x_preferred":[
@@ -375,6 +381,12 @@
     ],
     "name:yue_x_preferred":[
         "\u7dad\u591a\u5229\u4e9e"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u7ef4\u591a\u5229\u4e9a"
@@ -532,7 +544,7 @@
         }
     ],
     "wof:id":421202159,
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1636495640,
     "wof:name":"Victoria",
     "wof:parent_id":85678305,
     "wof:placetype":"locality",

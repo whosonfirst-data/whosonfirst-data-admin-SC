@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
     "geom:area_square_m":3465569.283957,
-    "geom:bbox":"55.4407435371,-4.62076226377,55.4599368223,-4.59749385985",
+    "geom:bbox":"55.440744,-4.620762,55.459937,-4.597494",
     "geom:latitude":-4.60837,
     "geom:longitude":55.452596,
     "gn:population":4023,
@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "La Rivi\u00e8re Anglaise"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u062e\u0627\u0646\u0647 \u0627\u0646\u06af\u0644\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "La Rivi\u00e8re Anglaise"
     ],
@@ -65,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0ab0\u0abf\u0ab5\u0abf\u0a8f\u0ab0\u0ac7 \u0a8d\u0a82\u0a97\u0acd\u0ab2\u0ac7\u0a88\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d2\u05dc\u05d9\u05e9 \u05e8\u05d9\u05d1\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093e \u0930\u093f\u0935\u093f\u090f\u0930 \u090f\u0902\u0917\u094d\u0932\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "English-foly\u00f3"
     ],
     "name:ind_x_preferred":[
         "La Rivi\u00e8re Anglaise"
@@ -252,7 +261,7 @@
         "wk:page":"La Rivi\u00e8re Anglaise"
     },
     "wof:country":"SC",
-    "wof:geomhash":"aee39181d077918c7508237c6c123eb8",
+    "wof:geomhash":"5fce2bf1eede2f2c230ae399d9ce58cb",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -269,7 +278,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638933,
+    "wof:lastmodified":1636495638,
     "wof:name":"English River",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -283,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.44074353708464,
-    -4.6207622637674,
-    55.45993682232654,
-    -4.59749385985373
+    55.440744,
+    -4.620762,
+    55.459937,
+    -4.597494
 ],
-  "geometry": {"coordinates":[[[55.45993682232654,-4.5985464326717],[55.45993682232654,-4.60647902778487],[55.45884595367789,-4.618115330558],[55.44732893518227,-4.6207622637674],[55.44864601390248,-4.61285978694957],[55.44074353708464,-4.60451828359186],[55.45435335892046,-4.59749385985373],[55.45993682232654,-4.5985464326717]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.459937,-4.598546],[55.459937,-4.606479],[55.458846,-4.618115],[55.447329,-4.620762],[55.448646,-4.61286],[55.440744,-4.604518],[55.454353,-4.597494],[55.459937,-4.598546]]],"type":"Polygon"}
 }

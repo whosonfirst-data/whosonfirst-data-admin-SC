@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
     "geom:area_square_m":1543926.67573,
-    "geom:bbox":"55.4741095505,-4.6651478411,55.4894754767,-4.6475428791",
+    "geom:bbox":"55.47411,-4.665148,55.489475,-4.647543",
     "geom:latitude":-4.657146,
     "geom:longitude":55.480206,
     "gn:population":2159,
@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Les Mamelles"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647 \u0645\u0645\u0644\u0632"
+    ],
     "name:fin_x_preferred":[
         "Les Mamelles"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u0940 \u092e\u0948\u092e\u0947\u0932\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Les Mamelles"
     ],
     "name:ind_x_preferred":[
         "Les Mamelles"
@@ -247,7 +253,7 @@
         "wk:page":"Les Mamelles"
     },
     "wof:country":"SC",
-    "wof:geomhash":"c6b56a02f5347a01aff2059a0b50ec5b",
+    "wof:geomhash":"d1ec9c9ec0fcf0ca5110b5ce0ac7ef92",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -264,7 +270,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638934,
+    "wof:lastmodified":1636495639,
     "wof:name":"Les Mamelles",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -278,10 +284,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.47410955051538,
-    -4.66514784109995,
-    55.48947547671196,
-    -4.64754287910057
+    55.47411,
+    -4.665148,
+    55.489475,
+    -4.647543
 ],
-  "geometry": {"coordinates":[[[55.48947547671196,-4.65851854079796],[55.48272359431849,-4.66225309880144],[55.4774900544225,-4.66514784109995],[55.47410955051538,-4.65500632937852],[55.47586565577546,-4.65281119667935],[55.47498760359508,-4.64754287910057],[55.48947547671196,-4.65851854079796]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.489475,-4.658519],[55.482724,-4.662253],[55.47749,-4.665148],[55.47411,-4.655006],[55.475866,-4.652811],[55.474988,-4.647543],[55.489475,-4.658519]]],"type":"Polygon"}
 }

@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Bel Ombre"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc \u05d0\u05d5\u05de\u05d1\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bel Ombre"
+    ],
     "name:ind_x_preferred":[
         "Bel Ombre"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1327251777,
-    "wof:lastmodified":1566638931,
+    "wof:lastmodified":1636495635,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85678277,
     "wof:placetype":"locality",

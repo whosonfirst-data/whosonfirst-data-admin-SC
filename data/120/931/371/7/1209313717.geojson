@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Anse Royale"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e1 \u05e8\u05d5\u05d9\u05d0\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Anse Royale"
+    ],
     "name:ind_x_preferred":[
         "Anse Royale"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1209313717,
-    "wof:lastmodified":1566638935,
+    "wof:lastmodified":1636495640,
     "wof:name":"Anse Royale",
     "wof:parent_id":85632661,
     "wof:placetype":"locality",
