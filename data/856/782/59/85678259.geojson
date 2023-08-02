@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0987\u09af\u09bc\u09c7 \u09b2\u09be\u099c\u09be\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7 \u09b2\u09be\u099c\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Baie Lazare"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Baie Lazare"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc \u0644\u0627\u0632\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Baie Lazare"
@@ -88,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub77c\uc790\ub974 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\ub77c\uc790\ub974\uad6c"
     ],
     "name:lav_x_preferred":[
         "Belazare"
@@ -142,6 +151,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e22\u0e4c \u0e23\u0e32\u0e41\u0e0b\u0e22\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e1a\u0e25\u0e32\u0e0b\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Baie Lazare"
@@ -278,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495636,
+    "wof:lastmodified":1690860395,
     "wof:name":"Baie Lazare",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

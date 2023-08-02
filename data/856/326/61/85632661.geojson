@@ -28,11 +28,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0421\u0435\u0438\u0448\u0435\u043b\u0442\u04d9\u0438 \u0410\u0434\u0433\u044c\u044b\u043b\u0431\u0436\u044c\u0430\u0445\u0430\u049b\u04d9\u0430"
+    ],
     "name:afr_x_preferred":[
         "Seychelle"
     ],
     "name:aka_x_preferred":[
         "Seyhy\u025bl"
+    ],
+    "name:aka_x_variant":[
+        "Seychelles"
     ],
     "name:als_x_preferred":[
         "Seychellen"
@@ -43,6 +49,12 @@
     "name:amh_x_variant":[
         "\u1232\u123c\u120d\u1235"
     ],
+    "name:ang_x_preferred":[
+        "Segscelliega"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0634\u0644"
     ],
@@ -52,6 +64,9 @@
     "name:arg_x_preferred":[
         "Seychelles"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u064a\u0634\u064a\u0644"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u064a\u0634\u064a\u0644"
     ],
@@ -60,6 +75,9 @@
     ],
     "name:ast_x_variant":[
         "Seixeles"
+    ],
+    "name:avk_x_preferred":[
+        "Seycella"
     ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0634\u0644"
@@ -82,6 +100,9 @@
     "name:bam_x_variant":[
         "Ses\u025bli"
     ],
+    "name:ban_x_preferred":[
+        "Seychelles"
+    ],
     "name:bar_x_preferred":[
         "Seychelln"
     ],
@@ -98,10 +119,14 @@
         "\u09b8\u09c7\u09b6\u09c7\u09b2"
     ],
     "name:ben_x_variant":[
-        "\u09b8\u09bf\u09b8\u09bf\u09b2\u09bf"
+        "\u09b8\u09bf\u09b8\u09bf\u09b2\u09bf",
+        "\u09b8\u09c7\u09b6\u09c7\u09b2\u09b8"
     ],
     "name:bho_x_preferred":[
         "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
+    ],
+    "name:bis_x_preferred":[
+        "Seisel"
     ],
     "name:bjn_x_preferred":[
         "Seychelles"
@@ -158,6 +183,9 @@
     "name:cor_x_preferred":[
         "Seychellys"
     ],
+    "name:cos_x_preferred":[
+        "Sexelles"
+    ],
     "name:cre_x_preferred":[
         "Repiblik Sesel"
     ],
@@ -165,6 +193,9 @@
         "Sey\u015feller"
     ],
     "name:cym_x_preferred":[
+        "Seychelles"
+    ],
+    "name:dag_x_preferred":[
         "Seychelles"
     ],
     "name:dan_x_preferred":[
@@ -262,6 +293,9 @@
     "name:gag_x_preferred":[
         "Sey\u015feller"
     ],
+    "name:gcr_x_preferred":[
+        "S\u00e9ch\u00e8l"
+    ],
     "name:gla_x_preferred":[
         "Na h-Eileanan Sheiseall"
     ],
@@ -278,6 +312,9 @@
     "name:glv_x_preferred":[
         "Ny h-Ellanyn Heshell"
     ],
+    "name:gpe_x_preferred":[
+        "Seychelles"
+    ],
     "name:grn_x_preferred":[
         "S\u00e9ichele"
     ],
@@ -289,6 +326,9 @@
     ],
     "name:guj_x_variant":[
         "\u0ab8\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
+    ],
+    "name:gur_x_preferred":[
+        "Seychelles"
     ],
     "name:hak_x_preferred":[
         "Seychelles"
@@ -461,6 +501,9 @@
     "name:lit_x_preferred":[
         "Sei\u0161eliai"
     ],
+    "name:lld_x_preferred":[
+        "Seychelles"
+    ],
     "name:lmo_x_preferred":[
         "Seychelles"
     ],
@@ -492,8 +535,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0936\u0947\u0932\u094d\u0938"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u0439\u0448\u044d\u043b\u0442\u043d\u0435"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b-\u0432\u043b\u0430\u043a"
+    ],
+    "name:min_x_preferred":[
+        "Seychelles"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0458\u0448\u0435\u043b\u0438"
@@ -506,6 +555,15 @@
     ],
     "name:mlt_x_preferred":[
         "Seychelles"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe6\uabc6\uabe6\uabdc\uabc2\uabe6\uabc1"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0435\u0439\u0448\u0435\u043b\u0438\u0439\u043d \u0430\u0440\u043b\u0443\u0443\u0434"
+    ],
+    "name:mri_x_preferred":[
+        "Heikere"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0435\u0439\u0448\u0435\u043b\u0432\u043b\u04d3"
@@ -525,6 +583,9 @@
     "name:nan_x_preferred":[
         "Seychelles"
     ],
+    "name:nau_x_preferred":[
+        "Seychelles"
+    ],
     "name:nav_x_preferred":[
         "Seishel"
     ],
@@ -539,6 +600,12 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u0947\u091a\u0947\u0932\u0947\u0938"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u0947\u0938\u0947\u0932\u094d\u0938"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0936\u0947\u0932\u094d\u0938"
     ],
     "name:nld_x_preferred":[
         "Seychellen"
@@ -647,6 +714,9 @@
     "name:sgs_x_preferred":[
         "Sei\u0161iel\u0113"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1031\u1038\u101e\u103b\u1084\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd3\u0dc2\u0dd9\u0dbd\u0dca\u0dc3\u0dca"
     ],
@@ -662,11 +732,23 @@
     "name:sme_x_preferred":[
         "Seychellsullot"
     ],
+    "name:sme_x_variant":[
+        "Seychellat"
+    ],
+    "name:smn_x_preferred":[
+        "Seychelleh"
+    ],
     "name:smo_x_preferred":[
         "Seychelles"
     ],
+    "name:sms_x_preferred":[
+        "Seychee\u02b9ll"
+    ],
     "name:sna_x_preferred":[
         "Seychelles"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u064a\u0686\u064a\u0644\u064a\u0633"
     ],
     "name:som_x_preferred":[
         "Siishilis"
@@ -756,6 +838,9 @@
     "name:tuk_x_preferred":[
         "Se\u00fd\u015fel Adalary"
     ],
+    "name:tum_x_preferred":[
+        "Seychelles"
+    ],
     "name:tur_x_preferred":[
         "Sey\u015feller"
     ],
@@ -782,7 +867,8 @@
         "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0634\u0644\u06cc\u0632"
+        "\u0633\u0634\u0644\u06cc\u0632",
+        "\u0633\u06cc\u0634\u06cc\u0644\u0632"
     ],
     "name:uzb_x_preferred":[
         "Seyshell orollari"
@@ -1066,7 +1152,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1617827406,
+    "wof:lastmodified":1690860401,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

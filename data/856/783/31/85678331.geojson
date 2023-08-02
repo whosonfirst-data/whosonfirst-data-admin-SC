@@ -57,6 +57,9 @@
         "St Louis",
         "St. Louis"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0644\u0648\u0626\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Saint Louis"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0dd\ub8e8\uc774 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc0dd\ub8e8\uc774\uad6c"
     ],
     "name:lav_x_preferred":[
         "Sentluisa"
@@ -155,6 +161,9 @@
     ],
     "name:vie_x_preferred":[
         "Saint Louis"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u8def\u6613\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8056\u8def\u6613\u5340"
@@ -279,7 +288,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495639,
+    "wof:lastmodified":1690860399,
     "wof:name":"Saint Louis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

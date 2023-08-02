@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
     "geom:area_square_m":1620103.234451,
-    "geom:bbox":"55.4749876036,-4.6585185408,55.4920254028,-4.63993763451",
-    "geom:latitude":-4.649382,
+    "geom:bbox":"55.474988,-4.658519,55.492025,-4.639938",
+    "geom:latitude":-4.649383,
     "geom:longitude":55.483181,
     "gn:population":3056,
     "iso:country":"SC",
@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Roche Caiman"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0634\u0647 \u06a9\u0627\u06cc\u0645\u0646"
+    ],
     "name:fin_x_preferred":[
         "Roche Caiman"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc288\uce74\uc774\ub9dd \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\uc288\uce74\uc774\ub9dd\uad6c"
     ],
     "name:lav_x_preferred":[
         "Ro\u0161kaimana"
@@ -250,7 +256,7 @@
         "wk:page":"Roche Caiman"
     },
     "wof:country":"SC",
-    "wof:geomhash":"831c80d12c7e5ea951ae3599539cfc22",
+    "wof:geomhash":"4966ebd5dc72a31b995e856c614d7d0f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -267,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566638934,
+    "wof:lastmodified":1690860400,
     "wof:name":"Roche Ca\u00efman",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
@@ -281,10 +287,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.47498760359508,
-    -4.65851854079796,
-    55.49202540275019,
-    -4.63993763451418
+    55.474988,
+    -4.658519,
+    55.492025,
+    -4.639938
 ],
-  "geometry": {"coordinates":[[[55.49202540275019,-4.65142783252838],[55.48947547671196,-4.65851854079796],[55.47498760359508,-4.64754287910057],[55.47566057617473,-4.63993763451418],[55.49202540275019,-4.65142783252838]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.492025,-4.651428],[55.489475,-4.658519],[55.474988,-4.647543],[55.475661,-4.639938],[55.492025,-4.651428]]],"type":"Polygon"}
 }

@@ -68,6 +68,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0aaf\u0ac1 \u0ab5\u0ac7\u0ab2\u0acb\u0aa8"
     ],
+    "name:hau_x_preferred":[
+        "Beau Vallon"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5 \u05d5\u05d0\u05dc\u05d5\u05df"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ubc1c\ub871 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ubc1c\ub871\uad6c"
     ],
     "name:lav_x_preferred":[
         "Bevalonna"
@@ -283,7 +289,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495636,
+    "wof:lastmodified":1690860396,
     "wof:name":"Beau Vallon",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

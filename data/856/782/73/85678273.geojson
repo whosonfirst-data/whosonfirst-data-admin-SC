@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Bel Air"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644 \u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bel Air"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca8\uc5d0\ub974 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubca8\uc5d0\ub974\uad6c"
     ],
     "name:lav_x_preferred":[
         "Belaira"
@@ -272,7 +278,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495636,
+    "wof:lastmodified":1690860396,
     "wof:name":"Bel Air",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

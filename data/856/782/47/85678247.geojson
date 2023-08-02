@@ -98,6 +98,9 @@
     "name:kor_x_preferred":[
         "\uc559\uc2a4\uc5d0\ud22c\uc54c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc559\uc2a4\uc5d0\ud22c\uc54c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Ansetol\u0113"
     ],
@@ -285,7 +288,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495638,
+    "wof:lastmodified":1690860398,
     "wof:name":"Anse Etoile",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Mont Fleuri"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0641\u0644\u0648\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Mont Fleuri"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubabd\ud50c\ub8b0\ub9ac \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubabd\ud50c\ub8b0\ub9ac\uad6c"
     ],
     "name:lav_x_preferred":[
         "Monfleri"
@@ -139,6 +145,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e19\u0e17\u0e4c \u0e40\u0e1f\u0e34\u0e25\u0e2d\u0e39\u0e23\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e07\u0e40\u0e1f\u0e25\u0e2d\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Mont Fleuri"
@@ -275,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495638,
+    "wof:lastmodified":1690860399,
     "wof:name":"Mont Fleuri",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
