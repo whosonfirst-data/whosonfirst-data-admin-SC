@@ -95,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uadf8\ub791\ub2f9\uc2a4\ud504\ub77c\uc2ac\ub7ad \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uadf8\ub791\ub2f9\uc2a4\ud504\ub77c\uc2ac\ub7ad\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Grandansepraslina"
     ],
@@ -142,6 +145,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd '\u0b85\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bbf\u0bb0\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd '\u0b85\u0ba9\u0bcd\u0bb8\u0bcd  \u0baa\u0bbf\u0bb0\u0bc6\u0bb8\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d\u0c06\u0c28\u0c4d\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c38\u0c4d\u0c32\u0c3f\u0c28\u0c4d"
@@ -284,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495636,
+    "wof:lastmodified":1690860395,
     "wof:name":"Grand'Anse Praslin",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

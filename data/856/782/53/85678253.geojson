@@ -92,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uc624\uce74\ud504 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc624\uce74\ud504\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Aukapa"
     ],
@@ -278,7 +281,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495637,
+    "wof:lastmodified":1690860397,
     "wof:name":"Au Cap",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

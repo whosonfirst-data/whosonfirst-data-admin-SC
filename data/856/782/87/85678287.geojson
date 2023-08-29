@@ -95,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uae00\ub77c\uc2dc \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uae00\ub77c\uc2dc\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Gl\u0101sisa"
     ],
@@ -284,7 +287,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495637,
+    "wof:lastmodified":1690860396,
     "wof:name":"Glacis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -53,6 +53,9 @@
     "name:eng_x_variant":[
         "Bel Ombre"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644 \u0627\u0648\u0645\u0628\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bel Ombre"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca8\uc634\ube0c\ub974 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubca8\uc634\ube0c\ub974\uad6c"
     ],
     "name:lav_x_preferred":[
         "Belombre"
@@ -142,6 +148,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0bb2\u0bcd  \u0b92\u0bae\u0bcd\u0baa\u0bb0\u0bc7"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bc6\u0bb2\u0bcd \u0b92\u0bae\u0bcd\u0baa\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c32\u0c4d \u0c13\u0c02\u0c2c\u0c4d\u0c30\u0c46"
@@ -283,7 +292,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495638,
+    "wof:lastmodified":1690860398,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

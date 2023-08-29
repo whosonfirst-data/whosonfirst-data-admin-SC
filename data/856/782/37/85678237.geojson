@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u0633\u064a-\u0623\u0648\u0643\u0633-\u0628\u064a\u0646\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Anse aux Pins"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09b8- \u0986\u0989\u09b8 \u09aa\u09bf\u09a8\u09cd\u09b8"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc559\uc2a4\uc624\ud33d \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc559\uc2a4\uc624\ud33d\uad6c"
     ],
     "name:lav_x_preferred":[
         "Ansopina"
@@ -166,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u585e\u5967\u6f58\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u6602\u65af\u6b27\u6f58\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYC",
@@ -287,7 +296,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495637,
+    "wof:lastmodified":1690860397,
     "wof:name":"Anse aux Pins",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

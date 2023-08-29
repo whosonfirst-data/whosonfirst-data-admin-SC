@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "La Digue and Inner Islands"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u062f\u06cc\u06af\u0648 \u0648 \u062c\u0632\u0627\u06cc\u0631 \u067e\u0627\u06cc\u06cc\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "La Digue and Inner Islands"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:por_x_preferred":[
         "Islas La Digue e Inner"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul La Digue"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u0414\u0438\u0433 \u0438 \u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
@@ -267,7 +273,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495639,
+    "wof:lastmodified":1690860400,
     "wof:name":"La Digue and Inner Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

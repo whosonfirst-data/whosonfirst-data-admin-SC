@@ -57,6 +57,9 @@
         "Pt Glaud",
         "Pt. Glaud"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u06af\u0644\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Port Glaud"
     ],
@@ -92,6 +95,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ub974\uae00\ub85c\ub4dc \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub974\uae00\ub85c\ub4dc\uad6c"
     ],
     "name:lav_x_preferred":[
         "Portglo"
@@ -155,6 +161,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u7279\u683c\u52de\u5fb7\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u6d1b\u6e2f\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SYC",
@@ -275,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636495639,
+    "wof:lastmodified":1690860401,
     "wof:name":"Port Glaud",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
