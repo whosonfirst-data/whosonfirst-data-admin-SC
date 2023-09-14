@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039574,
-    "geom:area_square_m":485549836.302206,
+    "geom:area_square_m":485549812.705841,
     "geom:bbox":"46.199528,-10.219611,56.298752,-3.712055",
     "geom:latitude":-6.722486,
     "geom:longitude":51.818593,
@@ -14,6 +14,9 @@
     "iso:country":"SC",
     "itu:country_code":[
         "248"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SC"
@@ -1082,7 +1085,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"248",
     "statoids:ds":"SY",
     "statoids:fifa":"SEY",
@@ -1136,7 +1140,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"c66e63847d010748d087d412384b68a7",
+    "wof:geomhash":"b00ca2e81f5560f5b9edce273763462a",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -1152,12 +1156,12 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860401,
+    "wof:lastmodified":1694639511,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
-    "wof:population":88340,
-    "wof:population_rank":8,
+    "wof:population":97625,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sc",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],
