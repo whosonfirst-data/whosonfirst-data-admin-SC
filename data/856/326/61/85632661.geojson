@@ -1121,6 +1121,7 @@
         "hasc:id":"SC",
         "icao:code":"S7",
         "ioc:id":"SEY",
+        "iso:code":"SC",
         "itu:id":"SEY",
         "loc:id":"n79071099",
         "m49:code":"690",
@@ -1134,6 +1135,7 @@
         "wk:page":"Seychelles",
         "wmo:id":"SC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
     "wof:country_alpha3":"SYC",
     "wof:geom_alt":[
@@ -1156,7 +1158,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694639511,
+    "wof:lastmodified":1695881166,
     "wof:name":"Seychelles",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
