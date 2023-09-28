@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1543926.67573,
+    "geom:area_square_m":1543833.281942,
     "geom:bbox":"55.47411,-4.665148,55.489475,-4.647543",
     "geom:latitude":-4.657146,
     "geom:longitude":55.480206,
@@ -259,13 +259,15 @@
         "gn:id":448408,
         "gp:id":24549880,
         "hasc:id":"SC.LM",
+        "iso:code":"SC-24",
         "iso:id":"SC-24",
         "qs_pg:id":507463,
         "wd:id":"Q2280357",
         "wk:page":"Les Mamelles"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"d1ec9c9ec0fcf0ca5110b5ce0ac7ef92",
+    "wof:geomhash":"a983296004935212b165aee987619bed",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -282,7 +284,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860400,
+    "wof:lastmodified":1695884805,
     "wof:name":"Les Mamelles",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

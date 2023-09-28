@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000476,
-    "geom:area_square_m":5868703.781012,
+    "geom:area_square_m":5868704.926666,
     "geom:bbox":"55.432687,-4.586957,55.46386,-4.560511",
     "geom:latitude":-4.571567,
     "geom:longitude":55.44512,
@@ -263,14 +263,16 @@
         "gn:id":241336,
         "gp:id":24549878,
         "hasc:id":"SC.GL",
+        "iso:code":"SC-12",
         "iso:id":"SC-12",
         "qs_pg:id":507461,
         "unlc:id":"SC-12",
         "wd:id":"Q3241696",
         "wk:page":"Glacis, Seychelles"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"82ab6b9aacab7ec42e604abad9dc410c",
+    "wof:geomhash":"5af41e46937a9ab8d60347a0ba55a2fe",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -287,7 +289,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860396,
+    "wof:lastmodified":1695884804,
     "wof:name":"Glacis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

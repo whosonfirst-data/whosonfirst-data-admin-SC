@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003345,
-    "geom:area_square_m":41241615.723227,
+    "geom:area_square_m":41241502.245718,
     "geom:bbox":"55.221446,-4.592755,55.950144,-3.791111",
     "geom:latitude":-4.406277,
     "geom:longitude":55.516602,
@@ -251,12 +251,14 @@
         "gn:id":241311,
         "gp:id":-99,
         "hasc:id":"SC.DI",
+        "iso:code":"SC-15",
         "iso:id":"SC-15",
         "unlc:id":"SC-15",
         "wd:id":"Q1094917"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"5efb6fd5b36ad447b6947ba96a67ca68",
+    "wof:geomhash":"68b9dde28b9ed10911a8db7a50385360",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -273,7 +275,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860400,
+    "wof:lastmodified":1695884804,
     "wof:name":"La Digue and Inner Islands",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

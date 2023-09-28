@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001357,
-    "geom:area_square_m":16723269.232233,
+    "geom:area_square_m":16723532.399384,
     "geom:bbox":"55.446451,-4.706406,55.495183,-4.65764",
     "geom:latitude":-4.681087,
     "geom:longitude":55.471009,
@@ -199,13 +199,15 @@
         "gn:id":241330,
         "gp:id":24549875,
         "hasc:id":"SC.GM",
+        "iso:code":"SC-13",
         "iso:id":"SC-13",
         "qs_pg:id":507458,
         "wd:id":"Q3241690",
         "wk:page":"Grand'Anse Mah\u00e9"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"84e8b4d189cdfb81865ef47b51b1ab5c",
+    "wof:geomhash":"691533572e5689c0f08f36d7851d5b0f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -222,7 +224,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860397,
+    "wof:lastmodified":1695884804,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000933,
-    "geom:area_square_m":11499349.835713,
+    "geom:area_square_m":11499344.296567,
     "geom:bbox":"55.500189,-4.736832,55.528087,-4.679588",
     "geom:latitude":-4.705981,
     "geom:longitude":55.514551,
@@ -257,14 +257,16 @@
         "gn:id":448410,
         "gp:id":24549872,
         "hasc:id":"SC.LO",
+        "iso:code":"SC-04",
         "iso:id":"SC-04",
         "qs_pg:id":507455,
         "unlc:id":"SC-04",
         "wd:id":"Q2667004",
         "wk:page":"Au Cap"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"801443874966849f16e20aad6ad9a24b",
+    "wof:geomhash":"dea7f47ff7142a9ade57ac541d059acf",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -281,7 +283,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860397,
+    "wof:lastmodified":1695884804,
     "wof:name":"Au Cap",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

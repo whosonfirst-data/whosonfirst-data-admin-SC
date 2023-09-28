@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000554,
-    "geom:area_square_m":6834016.817755,
+    "geom:area_square_m":6834021.790364,
     "geom:bbox":"55.439426,-4.604518,55.467221,-4.571384",
     "geom:latitude":-4.587537,
     "geom:longitude":55.452333,
@@ -265,13 +265,15 @@
         "gn:id":241447,
         "gp:id":24549884,
         "hasc:id":"SC.ET",
+        "iso:code":"SC-03",
         "iso:id":"SC-03",
         "qs_pg:id":59513,
         "wd:id":"Q387293",
         "wk:page":"Anse Etoile"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"dfbc95bdf648b6fb40ef3305c388b6cd",
+    "wof:geomhash":"b091d1bb4da9ea21cbeca6842d7f4899",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -288,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860398,
+    "wof:lastmodified":1695884804,
     "wof:name":"Anse Etoile",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

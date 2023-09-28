@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":5684793.232405,
+    "geom:area_square_m":5684821.994863,
     "geom:bbox":"55.482724,-4.680909,55.513646,-4.651428",
     "geom:latitude":-4.666787,
     "geom:longitude":55.49835,
@@ -254,13 +254,15 @@
         "gn:id":241396,
         "gp:id":24549871,
         "hasc:id":"SC.CA",
+        "iso:code":"SC-11",
         "iso:id":"SC-11",
         "qs_pg:id":59687,
         "unlc:id":"SC-11",
         "wd:id":"Q1928685"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"35879cfc4a1eff9e20a76eb9c2fd2bb5",
+    "wof:geomhash":"63f357b20bc42b065a45c95abad3d2bf",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -277,7 +279,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860398,
+    "wof:lastmodified":1695884804,
     "wof:name":"Cascade",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

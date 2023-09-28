@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001912,
-    "geom:area_square_m":23571209.379238,
+    "geom:area_square_m":23571193.707114,
     "geom:bbox":"55.68282,-4.350286,55.787038,-4.276841",
     "geom:latitude":-4.313792,
     "geom:longitude":55.738045,
@@ -264,13 +264,15 @@
         "gn:id":241438,
         "gp:id":24549888,
         "hasc:id":"SC.BS",
+        "iso:code":"SC-07",
         "iso:id":"SC-07",
         "qs_pg:id":1085975,
         "unlc:id":"SC-07",
         "wd:id":"Q803716"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"08433da16b4b723b5139a871498aca06",
+    "wof:geomhash":"e62aa52ea4a91853547ddc17bd648ca6",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -287,7 +289,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860397,
+    "wof:lastmodified":1695884804,
     "wof:name":"Baie Sainte Anne",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

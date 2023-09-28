@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000521,
-    "geom:area_square_m":6422930.332488,
+    "geom:area_square_m":6422936.005386,
     "geom:bbox":"55.455231,-4.647104,55.514426,-4.598366",
     "geom:latitude":-4.623544,
     "geom:longitude":55.489591,
@@ -260,14 +260,16 @@
         "gn:id":241251,
         "gp:id":24549882,
         "hasc:id":"SC.MF",
+        "iso:code":"SC-18",
         "iso:id":"SC-18",
         "qs_pg:id":507465,
         "unlc:id":"SC-18",
         "wd:id":"Q1945413",
         "wk:page":"Mont Fleuri"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"60e4b50bec093318c28b0ef6dcf9e84e",
+    "wof:geomhash":"f65076f5f18e9c5e06036cb28aa0b316",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -284,7 +286,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860399,
+    "wof:lastmodified":1695884804,
     "wof:name":"Mont Fleuri",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

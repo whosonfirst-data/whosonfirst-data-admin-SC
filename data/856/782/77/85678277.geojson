@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000819,
-    "geom:area_square_m":10092207.297641,
+    "geom:area_square_m":10092295.406617,
     "geom:bbox":"55.380478,-4.641397,55.431524,-4.612774",
     "geom:latitude":-4.625823,
     "geom:longitude":55.407039,
@@ -269,13 +269,15 @@
         "gn:id":241424,
         "gp:id":24549890,
         "hasc:id":"SC.BO",
+        "iso:code":"SC-10",
         "iso:id":"SC-10",
         "qs_pg:id":59690,
         "unlc:id":"SC-10",
         "wd:id":"Q3245439"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"c30d0793d1c833f7149d262fc3f01fce",
+    "wof:geomhash":"25767ec41cea629d7eb5a435f9db2f94",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -292,7 +294,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860398,
+    "wof:lastmodified":1695884804,
     "wof:name":"Bel Ombre",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
