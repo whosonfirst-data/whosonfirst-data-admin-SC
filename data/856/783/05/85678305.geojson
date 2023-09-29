@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":3465569.283957,
+    "geom:area_square_m":3465547.774546,
     "geom:bbox":"55.440744,-4.620762,55.459937,-4.597494",
     "geom:latitude":-4.60837,
     "geom:longitude":55.452596,
@@ -264,13 +264,15 @@
         "gn:id":241302,
         "gp:id":24549885,
         "hasc:id":"SC.RA",
+        "iso:code":"SC-16",
         "iso:id":"SC-16",
         "qs_pg:id":354728,
         "wd:id":"Q1819963",
         "wk:page":"La Rivi\u00e8re Anglaise"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"5fce2bf1eede2f2c230ae399d9ce58cb",
+    "wof:geomhash":"713819bb6643e334f45ea43195057f08",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -287,7 +289,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860399,
+    "wof:lastmodified":1695884804,
     "wof:name":"English River",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

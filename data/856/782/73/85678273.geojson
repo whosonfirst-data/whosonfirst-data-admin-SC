@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
-    "geom:area_square_m":7810309.473102,
+    "geom:area_square_m":7810205.059172,
     "geom:bbox":"55.435036,-4.65764,55.464451,-4.618115",
     "geom:latitude":-4.637107,
     "geom:longitude":55.451383,
@@ -254,14 +254,16 @@
         "gn:id":241426,
         "gp:id":24549883,
         "hasc:id":"SC.BA",
+        "iso:code":"SC-09",
         "iso:id":"SC-09",
         "qs_pg:id":507466,
         "unlc:id":"SC-09",
         "wd:id":"Q815077",
         "wk:page":"Bel Air, Seychelles"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"ad1383031d54b3ea22d914040fd7ad4c",
+    "wof:geomhash":"4b58c79eb60bd70d1d124ace13ea9b78",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -278,7 +280,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860396,
+    "wof:lastmodified":1695884804,
     "wof:name":"Bel Air",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

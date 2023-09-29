@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1430091.600749,
+    "geom:area_square_m":1430111.201406,
     "geom:bbox":"55.431524,-4.630421,55.447329,-4.615055",
     "geom:latitude":-4.62242,
     "geom:longitude":55.438554,
@@ -264,14 +264,16 @@
         "gn:id":241181,
         "gp:id":24549886,
         "hasc:id":"SC.SL",
+        "iso:code":"SC-22",
         "iso:id":"SC-22",
         "qs_pg:id":59688,
         "unlc:id":"SC-22",
         "wd:id":"Q2278695",
         "wk:page":"Saint Louis, Seychelles"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"21fd325f4075e338798383bf09969e6f",
+    "wof:geomhash":"82190acaceb5c4fd5bb4c97461bf199c",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -288,7 +290,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860399,
+    "wof:lastmodified":1695884805,
     "wof:name":"Saint Louis",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

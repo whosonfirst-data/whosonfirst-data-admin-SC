@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001137,
-    "geom:area_square_m":14010624.720946,
+    "geom:area_square_m":14010560.835944,
     "geom:bbox":"55.478001,-4.739089,55.507947,-4.677836",
     "geom:latitude":-4.711478,
     "geom:longitude":55.494029,
@@ -266,13 +266,15 @@
         "gn:id":241449,
         "gp:id":24549869,
         "hasc:id":"SC.AB",
+        "iso:code":"SC-02",
         "iso:id":"SC-02",
         "qs_pg:id":507453,
         "unlc:id":"SC-02",
         "wd:id":"Q569453"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"c25f2dacd3791ab24c0f30e6dd924cd7",
+    "wof:geomhash":"debe5295d0a2229d9db191ac2a03b0cc",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -289,7 +291,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860398,
+    "wof:lastmodified":1695884804,
     "wof:name":"Anse Boileau",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

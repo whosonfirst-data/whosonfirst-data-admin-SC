@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":23085375.77644,
+    "geom:area_square_m":23085552.656775,
     "geom:bbox":"55.643668,-4.358425,55.767995,-4.209909",
     "geom:latitude":-4.325962,
     "geom:longitude":55.717048,
@@ -266,14 +266,16 @@
         "gn:id":241331,
         "gp:id":24549889,
         "hasc:id":"SC.GP",
+        "iso:code":"SC-14",
         "iso:id":"SC-14",
         "qs_pg:id":896542,
         "unlc:id":"SC-14",
         "wd:id":"Q1231388",
         "wk:page":"Grand'Anse Praslin"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"4f136d97ed458064fe8306edd695ee49",
+    "wof:geomhash":"3f41517e90098e7909f548ffab788a50",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -290,7 +292,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860395,
+    "wof:lastmodified":1695884804,
     "wof:name":"Grand'Anse Praslin",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

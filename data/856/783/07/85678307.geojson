@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":1360032.430189,
+    "geom:area_square_m":1360087.499771,
     "geom:bbox":"55.435914,-4.620762,55.448646,-4.604518",
     "geom:latitude":-4.612418,
     "geom:longitude":55.442599,
@@ -257,14 +257,16 @@
         "gn:id":241252,
         "gp:id":24549887,
         "hasc:id":"SC.MB",
+        "iso:code":"SC-17",
         "iso:id":"SC-17",
         "qs_pg:id":59689,
         "unlc:id":"SC-17",
         "wd:id":"Q3241682",
         "wk:page":"Mont Buxton"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"55d68114eab2488c52424c6c7d08d8bb",
+    "wof:geomhash":"286c13c6deb29574d60575f01c6172d3",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -281,7 +283,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860399,
+    "wof:lastmodified":1695884804,
     "wof:name":"Mont Buxton",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

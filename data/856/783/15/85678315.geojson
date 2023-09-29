@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":4161028.134719,
+    "geom:area_square_m":4160974.413465,
     "geom:bbox":"55.459183,-4.672128,55.479817,-4.634917",
     "geom:latitude":-4.653491,
     "geom:longitude":55.470028,
@@ -260,14 +260,16 @@
         "gn:id":241224,
         "gp:id":24549881,
         "hasc:id":"SC.PL",
+        "iso:code":"SC-19",
         "iso:id":"SC-19",
         "qs_pg:id":507464,
         "unlc:id":"SC-19",
         "wd:id":"Q2199897",
         "wk:page":"Plaisance, Seychelles"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"4e1db0a44071a7628a96840f85f8ab3a",
+    "wof:geomhash":"be5d8285922c3f8c2b078dd15c47d824",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -284,7 +286,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860401,
+    "wof:lastmodified":1695884804,
     "wof:name":"Plaisance",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

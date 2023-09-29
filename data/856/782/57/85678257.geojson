@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000655,
-    "geom:area_square_m":8076176.432994,
+    "geom:area_square_m":8076209.900831,
     "geom:bbox":"55.504402,-4.771348,55.528087,-4.719832",
     "geom:latitude":-4.748952,
     "geom:longitude":55.513322,
@@ -260,13 +260,15 @@
         "gn:id":241444,
         "gp:id":24549870,
         "hasc:id":"SC.RO",
+        "iso:code":"SC-05",
         "iso:id":"SC-05",
         "qs_pg:id":507454,
         "unlc:id":"SC-05",
         "wd:id":"Q3241674"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"e74dadc910f047fb737b4c4d302962f3",
+    "wof:geomhash":"ccbe9e40310dfb7fb2f8ce5df14c3c99",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -283,7 +285,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860396,
+    "wof:lastmodified":1695884804,
     "wof:name":"Anse Royale",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002361,
-    "geom:area_square_m":29095472.291627,
+    "geom:area_square_m":29095712.899948,
     "geom:bbox":"55.360512,-4.680292,55.459183,-4.623835",
     "geom:latitude":-4.650916,
     "geom:longitude":55.417012,
@@ -261,13 +261,15 @@
         "gn:id":241215,
         "gp:id":24549876,
         "hasc:id":"SC.PG",
+        "iso:code":"SC-21",
         "iso:id":"SC-21",
         "qs_pg:id":507459,
         "unlc:id":"SC-21",
         "wd:id":"Q1808165"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"f9cfbbff4e5c47cbe037839adc1fade3",
+    "wof:geomhash":"b63afe98b71627b8e2bef9844b513567",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -284,7 +286,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860401,
+    "wof:lastmodified":1695884805,
     "wof:name":"Port Glaud",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

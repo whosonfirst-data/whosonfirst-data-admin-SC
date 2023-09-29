@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1728146.257097,
+    "geom:area_square_m":1728082.297571,
     "geom:bbox":"55.506301,-4.680193,55.528555,-4.666174",
     "geom:latitude":-4.674453,
     "geom:longitude":55.516297,
@@ -266,14 +266,16 @@
         "gn:id":241221,
         "gp:id":24549873,
         "hasc:id":"SC.PR",
+        "iso:code":"SC-20",
         "iso:id":"SC-20",
         "qs_pg:id":507456,
         "unlc:id":"SC-20",
         "wd:id":"Q2877260",
         "wk:page":"Pointe La Rue"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"7f95b28bfa2f1b85ac9d406973f0b892",
+    "wof:geomhash":"af30d073ac618571b52a2fb478d1e099",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -290,7 +292,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860401,
+    "wof:lastmodified":1695884804,
     "wof:name":"Pointe La Rue",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

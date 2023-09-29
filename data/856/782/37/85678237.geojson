@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1872558.286416,
+    "geom:area_square_m":1872634.371146,
     "geom:bbox":"55.503963,-4.689128,55.528555,-4.677352",
     "geom:latitude":-4.682302,
     "geom:longitude":55.51772,
@@ -272,14 +272,16 @@
         "gn:id":241450,
         "gp:id":24549874,
         "hasc:id":"SC.PI",
+        "iso:code":"SC-01",
         "iso:id":"SC-01",
         "qs_pg:id":507457,
         "unlc:id":"SC-01",
         "wd:id":"Q569458",
         "wk:page":"Anse-aux-Pins"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"973eed6320d8e86960f22381ac1f6fe1",
+    "wof:geomhash":"9bc1e820903138507dc652004ef71351",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -296,7 +298,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860397,
+    "wof:lastmodified":1695884804,
     "wof:name":"Anse aux Pins",
     "wof:parent_id":85632661,
     "wof:placetype":"region",

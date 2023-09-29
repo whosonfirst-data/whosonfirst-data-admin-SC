@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
-    "geom:area_square_m":13982612.903174,
+    "geom:area_square_m":13982402.266882,
     "geom:bbox":"55.46349,-4.777495,55.51011,-4.736364",
     "geom:latitude":-4.755431,
     "geom:longitude":55.48951,
@@ -266,14 +266,16 @@
         "gn:id":241439,
         "gp:id":24549868,
         "hasc:id":"SC.BL",
+        "iso:code":"SC-06",
         "iso:id":"SC-06",
         "qs_pg:id":219960,
         "unlc:id":"SC-06",
         "wd:id":"Q2494551",
         "wk:page":"Baie Lazare"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SC",
-    "wof:geomhash":"ded740dfbc61179d5157955f941ad94d",
+    "wof:geomhash":"c99c9841dced7bf248c4947622987592",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -290,7 +292,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860395,
+    "wof:lastmodified":1695884804,
     "wof:name":"Baie Lazare",
     "wof:parent_id":85632661,
     "wof:placetype":"region",
